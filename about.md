@@ -5,7 +5,7 @@ output: html_document
 permalink: /about/
 ---
 
-I am believer in the unity of scientific pursuits and domain-general learning over partitioned endeavours. My intellectual interests are divers and range from poetry to machine learning. I keep a more serious intellectual account [here](erikdrysdale.github.io).
+I am believer in the unity of scientific pursuits and domain-general learning over partitioned endeavours. My intellectual interests are divers and range from poetry to machine learning. I keep a more serious intellectual account [here](erikdrysdale.com).
 
 The philosophy of this blog is as follows:
 
