@@ -44,6 +44,28 @@ I cannot praise this book too highly. Firstly, its brevity is astounding given h
   <p>To the last toth of time, and the case closed.</p>
 </blockquote>
 
+**Don Juan**, *Lord Byron*
+
+<blockquote>
+<p>Oh! She was perfect, past all parallel-- </p>
+<p>Of any modern female saint’s comparison,  </p>
+<p>So far above the cunning powers of hell,  </p>
+<p>Her guardian angel had given up his garrison;  </p>
+<p>Even her minutest motions went as well </p> 
+  <p>As those of the best time-piece made by Harrison.</p>
+</blockquote>
+
+**Richard II**, *Shakespeare*
+
+<blockquote>
+<p>How sour sweet music is </p>
+<p>When time is broke and no proportion kept? </p>
+<p>So is it in the music of men’s lives. </p>
+<p>I wasted time, and now doth time waste me; </p>
+<p> For now hath time made me his numbering clock;  </p> 
+  <p>My thoughts are minutes.</p>
+</blockquote>
+
 
 ## Footnotes
 
