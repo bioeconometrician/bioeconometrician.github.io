@@ -1,5 +1,5 @@
 ---
-title: 'Pensée: Life Be Not Proud'
+title: 'Life Be Not Proud (Pensée)'
 output: html_document
 fontsize: 12pt
 published: true
