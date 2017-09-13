@@ -20,14 +20,19 @@ Second, I learned some interesting and new facts. As a practicing (i.e. employed
 There was also the sort of data that before reading the book I wouldn’t have even known to ask for such as the share of inherited wealth in a given year relative to GDP and the average difference in wealth between the dead (i.e. the year people die) and different age rages. As I learned, these statistics tell us something about the dynamics of wealth accumulation and concentration. There were also the facts, admittedly the most fun ones, that were drawn from history and literature. Piketty makes frequent reference to the novels of Honoré de Balzac and Jane Austen to explain how the elites of the past viewed the natural rate of interest on capital, the natural stability of prices, and the conundrums of working versus just living off inherited wealth. In the novel *Le Père Goriot* the main character Rastignac is given a cynical, if not accurate, lesson by the dastardly (and criminal of course) Vautrin, who assures him that if he slaves away climbing the professional ladder (the example of a lawyer is given) and against all odds reaches the top of the professional income distribution he will still be in poor shape relative to marrying a wealthy heiress and living off her estate. Reading these passages rekindled some memories of Victorian images from my own reading of literature. For example I recalled the amusing dialogues concocted by P. G. Woodhouse:[[^3]]
 
 > Lady Glossip: Do you work Mr. Wooster?
+> 
 > Bertie: What, work? As in honest toil, you mean? Hewing the wood and drawing the old wet stuff and so forth? 
+> 
 > Lady Glossip: Quite. 
+> 
 > Bertie: Well… I’ve known a few people who worked. Absolutely swear by it, some of them.
 
 Or perhaps from The Importance of Being Earnest (bold mine):
 
 > Lady Bracknell: … What is your income? Jack: Between seven and eight thousand a year. 
+> 
 > Lady Bracknell: In land, or in investments? 
+> 
 > Jack: In investments, chiefly. … I have a country house with some land, of course, attached to it, about fifteen hundred acres, I believe; **but I don’t depend on that for my real income**. In fact, as far as I can make out, the poachers are the only people who make anything out of it.
 
 In Victorian Britain, the upper orders would have considered working for one’s income unheard of. The exception being for labour considered as integral to statecraft (i.e. foreign diplomat, Private Secretary, etc). As a side note, I recall Michelangelo’s semi-aristocratic family (16th century Italy) considered such posts related to being a man-of-state the only labour worthy of their rank. Despite it not ‘paying’ well I wonder how this cultural phenomenon occurred whereby the wealthy considered a few political and bureaucratic occupations worthy of their breeding?
