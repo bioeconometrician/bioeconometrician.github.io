@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <p align="center">
-  <img src="/figures/capital_piketty.jpg" width="50%">
+  <img src="/figures/capital_piketty.jpg">
 </p>
 
 I recently watched two movies: *The Imitation Game* and *The Hobbit: Battle of the Five Armies*, both of which were slight disappointments for different reasons. While the former was a good movie, I felt it fell below the critical acclaim that its reviews had garnered it in my mind. Another reason may be that the film lacked much discussion of ‘computer science’, which would have been warranted given who Turing was. Furthermore, many interesting and (admittedly) salacious details of his life, such as his cruising through New York gay bars or racy vacations to Greek islands, were not even hinted at.[[^1]] The second movie was a negative shock to my expectations because the first Hobbit film was better (and it was not even that good) and because the desultory combination of cheesy-one liners, hypertrophic battle scenes that became so epic to the point of banality, and made up Elvin-Dwarf romances that could have been scripted for a grade 8 drama class mocked Tolkien’s masterpiece. In other words, our expectations can suffer disappointments due to the work that has come before it, what other have said about it, and internal substance of the thing itself.
