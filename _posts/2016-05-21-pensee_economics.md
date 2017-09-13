@@ -45,7 +45,7 @@ Let me provide one more example in the area of economics in which I work. Charts
 
 <figure>
   <img src="/figures/mlschart-1.png" style="float: left" />
-  <img src="/figures/mlschart-2.png" style="float: left" />
+  <img src="/figures/mlschart-2.png" />
 </figure>
 
 ### Friends, Roman, countrymen, lend me your ears
