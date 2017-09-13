@@ -43,10 +43,10 @@ After a brief 6.4 billion kilometre trip taking about 10 years the [Philae probe
 
 Let me provide one more example in the area of economics in which I work. Charts 1 and 2 found at the end of the post show the distribution of monthly growth rates in house prices across major Canadian cities, as well as Ottawa and Vancouver, over the last 10 years as specific examples using the [MLS HPI](http://www.rebgv.org/home-price-index). In the first chart we see that house prices see positive growth, on average, during only certain months. In the second chart we notice that the city of Vancouver has seen a much stronger distribution of growth rates than our nation’s capital. Can we ever hope to find a set of explanatory variables which could explain the distribution of house price growth by calendar months across time or space? No. The best we can do is provide a set of variables that may be able to explain some of the variation in outcomes we have seen over the last 10 years for major Canadian cities. Thus, we cannot ever hope to shoot out our economics space probe and land it on a theory that can even explain banal trends in the data. The shapes and trends found within the data we analyse gain social significance through the stories we tell about them, just as the distant stars gained significance through the fantastical images our ancestors ascribed to them before modern astrophysics was understood.
 
-<div>
-  <img src="/figures/mlschart-1.png" style="float: left;" />
-  <img src="/figures/mlschart-2.png" style="float: left;" />
-</div>
+<figure>
+  <img src="/figures/mlschart-1.png" style="float: left" />
+  <img src="/figures/mlschart-2.png" style="float: left" />
+</figure>
 
 ### Friends, Roman, countrymen, lend me your ears
 
