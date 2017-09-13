@@ -2,6 +2,8 @@
 layout: page
 title: About me
 output: html_document
+mathjax: true
+fontsize: 12pt
 permalink: /about/
 ---
 
