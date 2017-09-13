@@ -58,6 +58,27 @@ My vision of economics is a collaborative one: a discipline which works with psy
 
 * * *
 
+### Post script: A modest response
+
+The above post received some helpful feedback from my friend Jamshid, and I have summarized his concerns and my response to each below.
+
+* (1) Is economics just in an infancy stage of its science?
+
+This is true in the sense that the mathematical modelling of human behavior is a relatively new science when compared to say physics (I believe Marshal’s principles was published around 1890), but it is a much older field when compared to say computer science, which has made much empirical gains in human knowledge (in my opinion).
+
+What I would consider a “pass” for an infancy science is something along the lines of: look, we have these ideas, and our instruments are just too weak to be able to measure and validate them so we will have to rely on conjecture until such time that is possible to carry out these experiments. This is relevant for many of Einstein’s theories say, which were only confirmed by observational evidence decades later. However, in economics we do not have a set of experiments in which we agree if they were exactly carried out we would reach a consensus. The [Oregon Medicaid study](https://en.wikipedia.org/wiki/Oregon_Medicaid_health_experiment) comes to mind where even though we knew exactly what the regressions we would run before we even received the data were going to be, we still didn’t agree on the conclusions.
+
+* (2) Aren’t there areas of collaboration in econ?
+
+This is also true when it comes to psychology in behavioral economics and say business schools in finance. But this is both rare (as in what percent of top economic journals articles have coauthors from non-economics departments? Less than 5% almost certainly) and we demand that other departments use the methodology of economists. In this sense its more along the lines of the economic imperialism as discussed by Lazear. This may also be true for fields like sociology, but it is not true for fields in say Biostatistics where biologists, statisticians, computer scientists, etc, each bring a skill set in a collaborative endeavor.
+
+* (3) Does big data change any of this?
+
+The answer could be potentially yes, but only if we agree of a set of experiments in advance that would determine the validity of a theory. In other words, if we don’t agree on what the channels of causation are in economic systems, then (to paraphrase Taleb), the bigger the data the bigger the mistakes.
+
+
+* * *
+
 ## Footnotes
 
 [^1]: Pronounced "kayhns".  
