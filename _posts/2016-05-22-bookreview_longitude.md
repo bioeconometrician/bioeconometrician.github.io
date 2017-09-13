@@ -35,13 +35,14 @@ I cannot praise this book too highly. Firstly, its brevity is astounding given h
 
 **My Father’s Watch**, *John Ciardi*
 
-> One night I dreamed I was locked in my Father’s watch 
-> With Ptolemy and twenty-one ruby starts 
-> Mounted on spheres and the Primum Mobile 
-> Coiled and gleaming to the end of space 
-> And the notched spheres eating each other’s rinds 
-> To the last toth of time, and the case closed.
-
+<blockquote>
+<p>One night I dreamed I was locked in my Father’s watch </p>
+<p>With Ptolemy and twenty-one ruby starts </p>
+<p>Mounted on spheres and the Primum Mobile </p>
+<p>Coiled and gleaming to the end of space </p>
+<p>And the notched spheres eating each other’s rinds </p> 
+  <p>To the last toth of time, and the case closed.</p>
+</blockquote>
 
 
 ## Footnotes
