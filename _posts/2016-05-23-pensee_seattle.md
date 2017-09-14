@@ -15,7 +15,7 @@ I postulate that the easier travel becomes the less romantic and adventurous any
 
 $$
 \begin{align*}
-&\text{Erik’s postulation of travel meaningfulness}
+&\text{Erik’s postulation of travel meaningfulness} \\
 \text{romanticism}&=f(\text{speed of arrival},\text{difficulty of travel})
 \end{align*}
 $$
