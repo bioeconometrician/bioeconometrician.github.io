@@ -26,16 +26,14 @@ However, the early Greek physicians were not just laying important groundwork fo
 The man who did more than any person in history to establish the tradition of medical knowledge was Galen, a Greek born in Pergamum that moved to Rome where he become a medical celebrity (Marcus Aurelius described him as “primum sane medicorum esse - first among doctors”). Galen’s genius was to map Hippocrates’ four humors with Aristotle’s four elements[[^4]] to a simple compass-like schematic (see below) which explained all diseases. The intellectual success of the schema was why, for example, blood-letting was common into the 19th century as a surfeit of blood was believed to cause certain conditions. Galen’s impact of the intellectual history of medicine cannot be understated, and he was such as prolific writer that over 20,000 pages of his works survive to this day.
 
 <p align="center">
-  <img src="barlet1.jpg">
+  <img src="/figures/barlet1.jpg">
 </p>
 
 Like most of other works of antiquity, the writings of Galen and Hippocrates were kept in safe keeping and even expanded upon by the Arab world throughout the European dark ages. At the height of the Islamic enlightenment, the religious view was that Allah does not create a disease that there is not a subsequent cure to discover (an optimistic theology). Al-Razi was a doctor who trained in Baghdad’s bimaristan – “a home of the sick” where he eventually published the *Comprehensive Book of Medicine*. While a great fan of Galen, al-Razi was able to show that some of Galen’s principles were unsound (such as a human body can only get warmer is a hot liquid is drunk) by an improved understanding of chemistry.
 
 The survival of Greek and Roman medical works through Islamic scholarships allowed their rediscovery during the enlightenment at which point men like the Flemish physician Vesalius would help draft the layout for a new science. His masterwork, *De Humani Corporis Fabrica* contained 200 folio illustrations from bone to muscle layers. Even today the illustrations by Johannes Stephanus are beautiful to look at (see below), and we have the inhabitants of the Cemetery of Innocents in Paris to thank for their posthumous contribution. Like so many important persons who advance science, their legacy extends to their pupils, and Vesalius’ student Gabrielle Fallopius was the first to take a detailed undertaking of the study of female generative organs. Indeed fallopian tubes, the placenta, and the vagina are all terms Gabrielle provided us with. Unlike cartography where discovers use the names of friends and family members to label every shoal and rock, Vesalius mainly stuck to using Latin and Greek words to title new medical discoveries.
 
-<p align="center">
 #### Some beautiful sketches by Stephanus
-</p>
 <p align="center">
 <img src="/figures/vesalius.png">
 </p>
@@ -44,9 +42,7 @@ It seems likely that the initial burst of medical discoveries could be attribute
 
 > Leeuwenhoek’s very lack of scientific learning proved to his advantage. He simply described what he saw, with the minimum of speculation. Only the most basic of principles were applied to his observations. If a thing moved under its own propulsion, he judged it to be alive – no matter how minuscule or curious the object might be.
 
-<p align="center">
 #### Leeuwenhoek's "cells" seen in cork
-</p>
 <p align="center">
 <img src="/figures/RobertHookeMicrographia1665_2.jpg">
 </p>
