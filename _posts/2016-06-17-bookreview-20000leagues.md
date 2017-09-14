@@ -38,7 +38,7 @@ We soon find out that things might not be so bad aboard this ship. First, Captai
   <img src="/figures/art3.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
   </p>
 </figure>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 Won over by the learnedness of his captor, P. Aronnax begins to delight in the sea adventures the Captain takes on, especially the exploration of the island of Vanikoro where Jean-François de La Pérouse became stranded after both his vessels *La Boussole* and the *Astrolabe* sunk. Diving below the surface, Nemo clears up the entire historical ambiguity of this episode and shows that rather than hungry native cannibals it was definitely the coral reefs that got them. Speaking of natives, they encounter many primitive persons throughout the novel, but the civilized Aronnax has some trusty heuristics guiding his behavior: *"Between Europeans and savages, it is proper for the Europeans to parry sharply, not to attack"*. When reading the book, it dawns on one that whilst Nemo proclaims he has left the world of man for the sea due to its hypocrisy and corruption, he has not really 'gone native' in his new environment. That is, he is fundamentally a gentleman under the sea with his library and hunting trips (sharks rather than foxes). Although slightly halfway through the book we learn that the Captain is not a European as he explains:
 
