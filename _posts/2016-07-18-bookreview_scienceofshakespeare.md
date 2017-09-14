@@ -73,9 +73,9 @@ Furthermore in Diggs visualization of the solar system he included this text in 
 This statement in addition to sounding very new age, echoes some lines from Hamlet:
 
 > O God, I could be bounded in a nutshell, 
-
+> 
 > And count myself a king of infinite space-
-
+> 
 > Were it not that I have bad dreams. (Hamlet II.ii.254-257)
 
 The other figure in Elizabethan science who is of note is John Dee, a man who is speculated to have been the inspiration for both Prospero in *The Tempest* as well as the title characters in Ben Johnson's *The Alchemist* and Christopher Marlowe's *Dr. Faustus* (as well as Dumbledore in more recent times). Dr. Dee was an odd bird, who believed that he owned a magic crystal which acted as a direct line to the holy ghost and he straddled the profession of magician-fraud and scientific Renaissance man. Like Diggs, we have written evidence that Dee was familiar with the Copernican model of the solar system. Could Shakespeare have known Dee and been subsequently explained the Copernican worldview? Falk puts forward three pieces of evidence for this proposition:
@@ -117,11 +117,11 @@ Whilst astrological references abound throughout the Shakespearean canon, it's a
 Or consider Hotspur poking fun at the Welsh rebel captain Glendower's bluster on his nativity:
 
 > **Glendower**: At my nativity / The front of heaven was full of fiery shapes, / Of burning cressets, and at my birth / The frame and huge foundation of the earth / Shakes like a coward.
-
+> 
 > **Hotspur**: Why, so it would have done at the same season, if your mother's cat / had but kittened, though yourself had never been born.
-
+> 
 > **Glendower**: I say the earth did shake when I was born.
-
+> 
 > **Hotspur**: O, then the earth shook to see the heavens on fire, / And not in fear of your nativity. / Diseased Nature oftentimes breaks forth / In strange eruptions; oft that the teeming earth / Is with a kind of colic inched and vexed / By the imprisoning of unruly wind / Within her womb, which, for enlargement striving, / Shakes the old beldam earth and topples down / Steeples and moss-grown towers. At your birth / Our grandam earth, having this distemperature, / In passion shook.
 
 What makes this speech resonate with us today is that is both disregards superstitious thinking and mocks it with the vehemence we associate with the [New Atheist](https://en.wikipedia.org/wiki/New_Atheism) movement. Again, Falk makes the point that whether or not Shakespeare was a religious skeptic is irrelevant in the sense that his understanding of the arguments shows that he was likely aware of the scientific developments of the time.
