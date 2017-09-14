@@ -40,7 +40,7 @@ After trying to fit the data to a simple sinusoidal relationship of the form: $y
 ```r
 # Estimate n.ols
 k.nols <-  nls(D/scale ~ a+b*cos(Idx/d)+c*sin(Idx/d),
-                 start=list(a=mean(idx.dat\\$D)/scale,b=1,c=1,d=w),data=idx.dat,
+                 start=list(a=mean(idx.dat$D)/scale,b=1,c=1,d=w),data=idx.dat,
                control=list(maxiter=5000))
 ```
 
@@ -132,15 +132,13 @@ Returning to our the three original hypotheses that Falk seeks to address the in
 
 For both Shakespeare lovers and those interested in the history of science I highly recommend *The Science of Shakespeare*. After reading the book, one will have a new take on some of plays, especially *Hamlet*, as well as some of the characters, like Edmond and Hotspur, as well as a better understanding of how the age in which Shakespeare lived coincided with important events in the chronology of scientific advancements.
 
-> So fared another clerk with astronomy; / He walked into the meadows for to pry / Into the stars, to learn what should befall, / Until into a clay-pit he did fall; / He saw not that.
-
 * * *
 
 [^1]: Note that the word 'scientist' is an anachronism both etymologically (the word was coined in 1833 by William Whewell) but also conceptually as individuals who we would regard as scientists like Galileo or Copernicus thought of themselves as 'natural philosophers' and did not draw clear distinctions between true astronomy and other artistic forms. 
 
 [^2]: Note that Copernicus was not the first person to propose a heliocentric universe, as the ancient Greeks like Aristarchus had already put the  idea forward.
 
-[^3]: Note that when doing non-linear OLS, its wise to test how stable the parameters are depending on the initial conditions. Additionally a scaling term is introduced to quasi-normalize the data (as this is easier for Gauss-Newton search algorithms). As Figure A1 shows below, the \\$d\\$ parameter converges to around 100 quickly, although higher equilibrium point are found but the results are not intuitive (i.e. why would the periodicity occur ever 1400 days for example?). Note the estimated results are as follows: \\$a=-0.12\\$, \\$b=0.57\\$, \\$c=0.62\\$, and \\$d=107\\$.
+[^3]: Note that when doing non-linear OLS, its wise to test how stable the parameters are depending on the initial conditions. Additionally a scaling term is introduced to quasi-normalize the data (as this is easier for Gauss-Newton search algorithms). As Figure A1 shows below, the $d$ parameter converges to around 100 quickly, although higher equilibrium point are found but the results are not intuitive (i.e. why would the periodicity occur ever 1400 days for example?). Note the estimated results are as follows: $a=-0.12$, $b=0.57$, $c=0.62$, and $d=107$.
 
 <h5> Figure A1: Parameter stabality </h5>
 <p align="center">
@@ -154,4 +152,7 @@ For both Shakespeare lovers and those interested in the history of science I hig
 [^6]: This is just an appropriation of the argument I've heard Lawrence Krauss make against organized religion.
 
 [^7]: Although poking fun at astrologers goes all the way back in English literature to Chaucer in *The Miller's Tale*:
+
+> So fared another clerk with astronomy; / He walked into the meadows for to pry / Into the stars, to learn what should befall, / Until into a clay-pit he did fall; / He saw not that.
+
 
