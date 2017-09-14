@@ -13,7 +13,7 @@ mathjax: true
 <br>
 <p align="center">
 <a href="http://www.finemapping.com/">
-<img src="http://static1.squarespace.com/static/554cde9ae4b0b1c989985b23/t/5557bf3ee4b01c8e63a4a2bd/1431813964056/?format=500w" style="width:5cm;height:5cm;"/>
+<img src="/figures/fine_mapping.png">
 </a>
 </p>
 
