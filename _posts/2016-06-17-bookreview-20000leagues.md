@@ -31,13 +31,13 @@ We soon find out that things might not be so bad aboard this ship. First, Captai
 
 #### A collection of artwork aboard the Nautilus (would such luxury embarrass the Donald?)
 
-<p align="center">
 <figure>
+  <p align="center">
   <img src="/figures/art1.jpg" style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="/figures/art2.jpg" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="/figures/art3.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  </p>
 </figure>
-</p>
 <p style="clear: both;">
 <br>
 
