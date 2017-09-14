@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <p align="center">
-<img src="http://centreforinquiry.ca/wp-content/uploads/2014/05/The-SCience-of-Shakespeare.png" width="200">
+<img src="/figures/the_science_of_shakespeare.png">
 </p>
 
 After having seen *Othello* performed at *Bard on the Beach*, I was put in quite a Shakespearean mood and decided to pick up Dan Falk's *The Science of Shakespeare* off my bookshelf. The book gives both a brief history of scientific progress during the Elizabethan/Jacobean eras in which Shakespeare lived as well as an analysis of how much the Bard may have known about the scientific developments that were occuring at the time. The book's takeaways are threefold:
@@ -23,7 +23,7 @@ When Shakespeare was born in 1564, the same birth year as Galileo coincidentally
 
 <h5> Figure 1: Copernicus' schemata wrought a new cosmological conception </h5>
 <p align="center">
-<img src="https://s-media-cache-ak0.pinimg.com/564x/03/5e/71/035e7163d9ab7714de7c5a7887c48526.jpg" width="300">
+<img src="/figures/copernican_schema.jpg">
 </p>
 
 Tycho Brahe (1546-1601), an ambitious Danish nobleman, was perhaps the luckiest scientist in the 16th century as he won favor with the Danish Crown as was given a large sum of money to set up an observatory on the island of Hven. The observatory, called Uraniborg, generated the most important observational data on the sun, moon, stars, comets, and other planets during this period. The project on Hven was impressive, and according to Falk its costs was around 1-1.5% of the Danish national budget. The data generated from Uraniborg would ultimately prove instrumental for cosmology by allowing Kepler to correctly deduce the actual shape of planetary orbits. 
@@ -32,7 +32,7 @@ I was able to find a [dataset](http://www.pafko.com/tycho/observe.html) of Tycho
 
 <h5> Figure 2: Observational data generated from Tycho's observatory on the island of Hven</h5>
 <p align="center">
-<img src="/content/images/2016/07/raw_dat.png" width="500">
+<img src="/figures/tycho_observational.png">
 </p>
 
 After trying to fit the data to a simple sinusoidal relationship of the form: $y=a+b \times sin(t/d)$, I found the fitted values to be unsatisfactory and instead tried a more complicated angular relationship as I suspected that the tilting of the Earth's axis may cause another trigonometric relationship to enter the data. This time, in my model I included both a sine and a cosine term: $y=a+b \times cos(t/d) + c \times sin(t/d)$, and found the fit to be much better, as shown in Figure 3. I suspect that the outliers may be driven by measurement error or a more complicated underlying model! The data can be fitted using the `nls` function in R:[[^3]]
@@ -46,7 +46,7 @@ k.nols <-  nls(D/scale ~ a+b*cos(Idx/d)+c*sin(Idx/d),
 
 <h5> Figure 3: A simple model predicts the position of Mars in the night sky </h5>
 <p align="center">
-<img src="/content/images/2016/07/model-1.png" width=500>
+<img src="/figures/simple_model.png">
 </p>
 
 In a somewhat striking coincidence, the 16th century had a collection of exceedingly rare astronomical events. For example, the arrival of the Great Comet of 1577 allowed Tycho to calculate that this comet was farther away from Earth than the moon was, a direct affront to the existing theories at the time. More importantly, in November 1572 astronomers throughout Europe noticed a brand new star in the heavens that shone with unparalleled incandescence. What astronomers were seeing at the time was a supernova from the Cassiopeia constellation that had exploded some 9000 years previously. What came to be known as 'Tycho's star', was another revolution in cosmology as it violated the Aristotelian view of the unchangeable heavens. Falk highlights that many scholars attribute this supernova as an incredibly important event in unraveling the existing medieval worldview:
@@ -57,7 +57,7 @@ Brahe also correctly understood that because the stars have no parallax,[[^4]] t
 
 <h5> Figure 4: Brahe puts the theories of Copernicus and Ptolemy in a Procrustean bed </h5>
 <p align="center">
-<img src="https://www.imcce.fr/langues/en/grandpublic/systeme/promenade-en/images/jpg8/822.jpg" width=300 />
+<img src="/figures/ptolemy_model.jpg">
 </p>
 
 ### Science in Elizabethan England
@@ -132,6 +132,8 @@ Returning to our the three original hypotheses that Falk seeks to address the in
 
 For both Shakespeare lovers and those interested in the history of science I highly recommend *The Science of Shakespeare*. After reading the book, one will have a new take on some of plays, especially *Hamlet*, as well as some of the characters, like Edmond and Hotspur, as well as a better understanding of how the age in which Shakespeare lived coincided with important events in the chronology of scientific advancements.
 
+> So fared another clerk with astronomy; / He walked into the meadows for to pry / Into the stars, to learn what should befall, / Until into a clay-pit he did fall; / He saw not that.
+
 * * *
 
 [^1]: Note that the word 'scientist' is an anachronism both etymologically (the word was coined in 1833 by William Whewell) but also conceptually as individuals who we would regard as scientists like Galileo or Copernicus thought of themselves as 'natural philosophers' and did not draw clear distinctions between true astronomy and other artistic forms. 
@@ -142,7 +144,7 @@ For both Shakespeare lovers and those interested in the history of science I hig
 
 <h5> Figure A1: Parameter stabality </h5>
 <p align="center">
-<img src="/content/images/2016/07/nls.png" width=500 />
+<img src="/figures/param_stability.png">
 </p>
 
 [^4]: Parallax is the change in visual perception depending on the angle you view an object. For example, if I were to Skype call my Ontario friends at midnight my time and ask where the moon was on the horizon for them, they would measure an different angle than I would, of course, as they are 5000km or so the east of me. Indeed we could use these three data points (my angle, your angle, and the distance between us) to gage the actual distance of the moon. 
@@ -153,4 +155,3 @@ For both Shakespeare lovers and those interested in the history of science I hig
 
 [^7]: Although poking fun at astrologers goes all the way back in English literature to Chaucer in *The Miller's Tale*:
 
-> So fared another clerk with astronomy; / He walked into the meadows for to pry / Into the stars, to learn what should befall, / Until into a clay-pit he did fall; / He saw not that.
