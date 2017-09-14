@@ -86,7 +86,9 @@ The other figure in Elizabethan science who is of note is John Dee, a man who is
 
 Yet another interesting figure in England at the time Shakespeare was acting and writing plays was Giordano Bruno, a philosopher who was forced to leave Italy due to his heretical views on an infinite universe. Bruno has re-entered the public's imagination due to his story being highlighted in the new *Cosmos* TV series.
 
+<p align="center">
 <iframe src="https://player.vimeo.com/video/89241669" width="525" height="358" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
 
 In 1585, Bruno lectured at Oxford (in an Italian-accented Latin no doubt difficult for the locals to understand) where he indubitably aligned himself with the Copernican worldview, and had no qualms about discarding the fusty theories that had been perpetuated since antiquity.
 
