@@ -153,6 +153,6 @@ For both Shakespeare lovers and those interested in the history of science I hig
 
 [^6]: This is just an appropriation of the argument I've heard Lawrence Krauss make against organized religion.
 
-[^7]: Although poking fun at astrologers goes all the way back in English literature to Chaucer in *The Miller's Tale*: *So fared another clerk with astronomy; / He walked into the meadows for to pry / Into the stars, to learn what should befall, / Until into a clay-pit he did fall; / He saw not that.*
+[^7]: Although poking fun at astrologers goes all the way back in English literature to Chaucer in *The Miller's Tale*: *"So fared another clerk with astronomy; / He walked into the meadows for to pry / Into the stars, to learn what should befall, / Until into a clay-pit he did fall; / He saw not that."*
 
 
