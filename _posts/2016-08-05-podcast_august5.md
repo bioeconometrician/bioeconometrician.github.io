@@ -11,9 +11,6 @@ How did people live fulfilling lives before podcasts?
 
 ### Freakonomics Podcast: Gender Barriers
 
-<p align="center">
-<iframe frameborder="0" src="http://www.wnyc.org/widgets/ondemand_player/freakonomics/#file=json/642358" width="100%" height="54"></iframe>
-</p>
 
 I do not listen to the Freakonomics podcast as much as I used to as the number of episodes with both Steven Levitt and Stephen Dubner has fallen off sharply as the former is an extremely busy UChicago economics professor whilst the latter has used the Freakonomics brand to advance his career (and there is nothing wrong with that of course). Still, there are some episodes which do peak my fancy, and this week's about [Gender Barrier's](http://freakonomics.com/podcast/gender-barriers/) was quite interesting. This is actually the second interesting podcast they have done regarding the economics of sex discrimination, and earlier this year they had a [great episode about how we should think about the pay gap](http://freakonomics.com/podcast/the-true-story-of-the-gender-pay-gap-a-new-freakonomics-radio-podcast/). The key takeaways from this episode were:
 
