@@ -1,5 +1,5 @@
 ---
-title: 'Gulliver's Travel by Jonathan Swift (Book Review)'
+title: "Gulliver's Travel by Jonathan Swift (Book Review)"
 output: html_document
 fontsize: 12pt
 published: true
