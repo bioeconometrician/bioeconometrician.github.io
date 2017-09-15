@@ -78,7 +78,7 @@ Of course, Galton understood that this may be because of social advantage and co
 $$ \text{offspring} = \alpha + \beta \cdot \text{parent} + u $$
 
 <p align="center">
- <img src="/figures/reg_table1.png" width="80%">
+ <img src="/figures/reg_table1.png" width="60%">
 </p>
 
 As anyone with knowledge of infinite sequences knows, $ \lim_{t \to \infty} \{ \text{offspring}_t \} = \frac{\alpha}{1-\beta} $ which means that Galton's model suggested in the long-run (sex-adjusted) height will return to 68.4 inches, the same mean height of the parents in the sample. Further evidence for the 'reversion' phenomenon was by plotting a confidence ellipse on the bivariate data and to notice that the 45 degree line intersected it a ratio of around two-thirds of children to parents height, as shown in Chart 1 in Galton's original paper. 
