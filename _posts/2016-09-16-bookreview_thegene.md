@@ -78,6 +78,7 @@ Of course, Galton understood that this may be because of social advantage and co
 $$ \text{offspring} = \alpha + \beta \cdot \text{parent} + u $$
 
 <table border=1>
+<table border=1>
 <tr> <th>  </th> <th> Estimate </th> <th> Std. Error </th> <th> t value </th> <th> Pr(&gt;|t|) </th>  </tr>
   <tr> <td align="right"> alpha </td> <td align="right"> 46.14 </td> <td align="right"> 1.41 </td> <td align="right"> 32.67 </td> <td align="right"> 0.00 </td> </tr>
   <tr> <td align="right"> beta</td> <td align="right"> 0.33 </td> <td align="right"> 0.02 </td> <td align="right"> 15.71 </td> <td align="right"> 0.00 </td> </tr>
