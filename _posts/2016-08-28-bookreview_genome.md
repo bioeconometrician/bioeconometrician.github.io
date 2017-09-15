@@ -58,7 +58,7 @@ The battle of the sexes also shows up in courtship, which is defined by any comm
 
 <h5>Evolution gone horribly wrong</h5>
 <p align="center">
-<img src="figures/baby-crying.jpg">
+<img src="/figures/baby-crying.jpg">
 </p>
 
 Why are babies so noisy? Blame interlocus contest evolution. Consider babies crying out for food or milk. Parents value a signal of how hungry their children are so that they can feed them appropriately (and safeguard their genes of course). Children also value a signal that they can use to mediate their dietary requirements. So will children cry at a rate which expresses their true hunger (the hidden information) or will they have incentive to cry "too much", and if so why? Let's imagine the following signalling game.
