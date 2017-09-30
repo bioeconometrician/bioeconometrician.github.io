@@ -18,7 +18,7 @@ mathjax: true
 
 *The Distance of the Moon* is the first story in Italo Calvino's *The Complete Cosmicomics*, and proves an excellent ambassador for the author's style and works. Each book in the *Cosmicomics* begins with an apocryphal scientific quote, although usually based on some actual scientific fact,[[^1]] and we are given a tale by the irrepressibly present *Qfwfq*, who seems to have been around for most events in the history of the universe. The story begins at the point in time when the moon was very close to the earth's surface. So close in fact, that the denizens of the planet  often made forays up to the satellite's crust.
 
-<p align="center"><h5>Just a ladder's breadth away to the moon</h5></p>
+<p align="center"><h5 text-align: center>Just a ladder's breadth away to the moon</h5></p>
 <p align="center"><img src="/figures/ladder_moon.jpg"></p>
 
 The expeditions were mainly economic, as just below the lunar crust were seemingly endless quantities of moon milk (more like a cream cheese). It should be noted that the moon as cheese is a favorite [historical misremembrance](https://en.wikipedia.org/wiki/The_Moon_is_made_of_green_cheese).
