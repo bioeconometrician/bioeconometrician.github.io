@@ -7,13 +7,13 @@ status: publish
 mathjax: true
 ---
 
+<br>
 <p align="center"><img src="/figures/the_distance_of_the_moon.png"></p>
-
+<br>
 <p align="center">
 <iframe width="50%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344731455&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true">
 </iframe>
 </p>
-<br>
 <br>
 
 *The Distance of the Moon* is the first story in Italo Calvino's *The Complete Cosmicomics*, and proves an excellent ambassador for the author's style and works. Each book in the *Cosmicomics* begins with an apocryphal scientific quote, although usually based on some actual scientific fact,[[^1]] and we are given a tale by the irrepressibly present *Qfwfq*, who seems to have been around for most events in the history of the universe. The story begins at the point in time when the moon was very close to the earth's surface. So close in fact, that the denizens of the planet  often made forays up to the satellite's crust.
