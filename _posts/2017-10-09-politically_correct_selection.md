@@ -39,7 +39,7 @@ The principal replied, "It's called 'Jill of Green Stables.' Apparently it's som
 
 "What does the anti-gender discrimination group think?" asked the principal?
 
-An old man slowly stated, "Well, on. We can't have something like that. Think of the unions. The um, parents. Feminists. Wouldn't work out well I assume, I think, I don't really know."
+An old man slowly stated, "Well, um, ... We can't have something like that. Think of the unions. The um, parents. Feminists. Wouldn't work out well I assume, I think, I don't really know."
 
 This was followed by a series of agreeing grunts and bobbing heads.
 
@@ -49,7 +49,7 @@ This was followed by a series of agreeing grunts and bobbing heads.
 
 "I completely concur. We can't have horrible themes that suggest inappropriate things, like when little Timmy was picking oranges at the farm," said the Elementary school representative.
 
-"My god!" said the counselor. "Could you imagine the outrage by the parents? We almost had our heads chopped off by the ministry when we alled 'The Four Country Bears'. Four bears, one bed, not natural".
+"My god!" said the counselor. "Could you imagine the outrage by the parents? We almost had our heads chopped off by the ministry when we allowed 'The Four Country Bears'. Four bears, one bed, not natural."
 
 "Not right," murmured the other members of the group.
 
@@ -61,17 +61,17 @@ This was followed by a series of agreeing grunts and bobbing heads.
 
 "What does that mean?" asked the Math representative.
 
-"Oh, it's very simple: the unread, outdated, and too difficult for the average child. Teachers will be lucky if their students get past hte first chapter. The book bombards you with our of date English that's so monotonous they just might set the book of fire."
+"Oh, it's very simple: the unread, outdated, and too difficult for the average child. Teachers will be lucky if their students get past the first chapter. The book bombards you with out of date English that's so monotonous they just might set the book of fire."
 
-"How marvelous!" replied the bloated anti-gender discrimination representative. "That's how the school system should be. We hive the kids what they need and we get the reward of illiteracy."
+"How marvelous!" replied the bloated anti-gender discrimination representative. "That's how the school system should be. We give the kids what they need and we get the reward of illiteracy."
 
-"Are you crazy? You just state how the kids will hate the book. But now you say the kids need it?!" exclaimed the Math representative.
+"Are you crazy? You just stated how the kids will hate the book. But now you say the kids need it?!" exclaimed the Math representative.
 
 "My dear fiend," said the English representative looing at the Math representative in the eye. "It is up to the administrators to help the poor children learn their ABC's. Kids like to be told what to do. Putting them into a claustrophobic environment creates the perfect mentality for healthy learning."
 
 "Of course," mumbled the group.
 
-"Should we be convincing them that coming to school if fun, and that when you learn it is rewarding?" asked the Math representative.
+"Shouldn't we be convincing them that coming to school if fun, and that when you learn it is rewarding?" asked the Math representative.
 
 "This is outrageous!" said the English teacher. "The whole entire society functions because they like to do what we tell them to do. By taking this away you'll be promoting vigilantes, free thinkers, progressive liberals, and a slew of upsetting personalities."
 
@@ -105,7 +105,7 @@ This was followed by a series of agreeing grunts and bobbing heads.
 
 "Well," stated the principal "I think we should move onto the final book on our agenda, 'Little Shack in the Ghetto'."
 
-"Well I'm afraid this boo, is not looking to good," said the English representative. "On the one hand you have a story of a kid going through high school. But, on the other, she is a slightly overweight kid who becomes a Goth and disobeys the school uniform code."
+"Well I'm afraid this book is not looking to good," said the English representative. "On the one hand you have a story of a kid going through high school. But, on the other, she is a slightly overweight kid who becomes a Goth and disobeys the school uniform code."
 
 "We can't have those types of ragamuffins parading through books," said the anti-gender discrimination representative.
 
@@ -117,7 +117,7 @@ This was followed by a series of agreeing grunts and bobbing heads.
 
 "The last thing I want is a Goth trying to open a portal to hell on my blackboard," wheezed the anti-gender discrimination representative.
 
-"Well, we have professionally managed to sort out the good from the bad. I think the school board will be very pleased with our screening. Though we have varied thoughts on each book I think this is the best rounded group I have had to work with. Each of our insights provides a different perspective on each subject. Even the Anne Air has been selected for the curriculum 18 times in a row I think it was the wisest choice," concluded the principal.
+"Well, we have professionally managed to sort out the good from the bad. I think the school board will be very pleased with our screening. Though we have varied thoughts on each book I think this is the best rounded group I have had to work with. Each of our insights provides a different perspective on each subject. Even though Anne Air has been selected for the curriculum eighteen times in a row I think it was the wisest choice," concluded the principal.
 
 "Yes, I'm very pleased with our choice today. As you know, they say a good classic never dies," stated the English representative.
 
