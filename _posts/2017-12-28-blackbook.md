@@ -7,7 +7,7 @@ status: publish
 mathjax: true
 ---
 
-<p align="center"><img src="/figures/blackbook.jpg" width="75%"></p>
+<p align="center"><img src="/figures/blackbook.jpg" width="25%"></p>
 
 There are two types of Pamuk novels: his post-modernist types (*My Name is Red* and *Snow*) and his more realist-type novels (*Silent House* and *Museum of Innocence*). *The Black Book* belongs to the former category and is one of his best works from an artistic perspective.  It contains the usual Pamuk flourishes: repetitive and melancholic descriptions of Istanbul, wives that are both beautiful and bored, and a highly dynamic narrative style.[[^1]] At first, the novel provides a vignette into the uninteresting lives Galip (the protagonist of the novel) and his beautiful Rüya along with their respective family dynamics. Galip has inherited a legal practice from his family, and while he is good at his job, he is not taken with his life. Rüya's situation is characterized almost only ennui, as she spends her days smoking cigarettes and reading low-brow mystery novels. When Rüya fails to show up for a family dinner party where the same stultifying conversations are had each week, Galip goes home to find a note from his wife saying she has left, but she provides no explanation as to why. Galip decides not to inform his family or friends of her disappearance but instead seek her out independently. At the same time Galip's much older uncle Celal[[^2]] has gone missing. Celal, while being the black sheep of the family, has nevertheless established himself as one of Turkey's most popular columnist.
 
@@ -23,12 +23,13 @@ Below I provide readings of two of Celal's articles: *When the Bosphorus Dries U
 
 <h5> <p align="center"> When the Bosphorus Dries Up </p> </h5>
 <p align="center">
-<iframe width="50%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/375968159&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+<iframe width="50%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/375968159&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 </p>
 
 <h5> <p align="center"> The Executioner and the Weeping Face </p> </h5>
-
-<iframe width="50%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/377847683&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+<p align="center">
+<iframe width="50%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/377847683&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+</p>
 
 As the novel progresses the storyline and motivations of the characters becomes increasingly convoluted. Galip begins to suspect that Rüya and Celal have disappeared together and hunts down Celal's secret apartment. Unable to find him there, Galip begins to assume the identity of Celal and begin writing his columns. As the novel progresses, the interactions between different characters begin to take on a fantastical and implausible dimension. Mysterious callers ring Celal's flat, and Galip has long conversations with seemingly omniscient fans who know every detail of Celal's columns and his writings. These caller's believe that Celal has uncovered hundred-year long conspiracies are prophesized the coming messiah that will save Turkey from ignominy and decay.
 
