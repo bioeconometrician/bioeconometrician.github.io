@@ -9,19 +9,19 @@ mathjax: true
 
 ## The Nonexistent Knight
 
-<p align="center"><img src="/figures/nonexistent.png" width="80%"></p>
+<p align="center"><img src="/figures/nonexistent.png" width="33%"></p>
 
-One of reason why Calvino novels are such a delight to read is because of the way in which a simple storyline is transformed on one dimensional via a fantastical element. In the *The Nonexistent Knight*, we are told the story of Agilulf, a knight in Charlemagne's army, who embodies ideals of chivalry: honor, bravery, and piety. His full title is actually *Agilulf Emo Bertrandin of the Guildivern and of the Others of Corbentraz and Sura, Knight of Selimpia Citeriore and Fez*. However, and as the title of the novel suggests, Agilulf does not actually exist. That is not to say he does not speak, or ride a fine horse, or where resplendent white armor, but there is no visible form beneath the armor, nor is it the case of an actual man wearing a clock of invisibility. Agilulf never existed before and does not exist now. Upon discovering that a knight in his army bears such remarkable properties,  Charlemagne entreaties the knight:
+One of reason why Calvino novels are such a delight to read is because of the way in which a simple setting and story is transformed through a fantastical reimagining. *The Nonexistent Knight* tells the story of Agilulf, a knight in Charlemagne's army, who embodies the ideals of chivalry: honor, bravery, and piety. His full title is actually *Agilulf Emo Bertrandin of the Guildivern and of the Others of Corbentraz and Sura, Knight of Selimpia Citeriore and Fez*. However, and as the title of the novel suggests, Agilulf does not actually exist. That is not to say he does not speak, or ride a fine horse, or where resplendent white armor, but there is no visible form beneath the armor, nor is it the case of an actual man wearing a cloak of invisibility. Agilulf never existed before and does not exist now. Upon discovering that a knight in his army bears such remarkable properties,  Charlemagne entreaties the knight:
 
-> "Well, well! Who'd have thought it!" exclaimed Charlemagne. "And how do your do your job, then, if you don't exist?"
+> "Well, well! Who'd have thought it!" exclaimed Charlemagne. "And how do you do your job, then, if you don't exist?"
 
 > "By will power," said Agilulf, "and faith in our holy cause!"
 
-While the exact details are omitted, we are told that Charlemagne's forces are there to fight the infidels, which one assumes are the Moorish armies that [sparred with Christian forces](https://en.wikipedia.org/wiki/Charlemagne#Wars_with_the_Moors) in Spain and France. Early on we are also introduced to Raimbaut of Roussillon, a knight who has come to avenge his father who was killed by the Moor Argalif Isohar. Raimbaut initially displays a youthful and naive excitement to engage with the enemy but is dispirited when he finds out that the official order of battle is bureaucratic and his father's death is not remembered in the army. As usual, Calvino manages to make a delightful and fantastical mockery of medieval battles. Knights line and up and charge at each other, but make sure that no one is directly in the either's path to avoid *actual* combat. When actual battle did occur:
+While the exact details are omitted, we are told that Charlemagne's forces are there to fight the infidels, which one assumes are the Moorish armies that [sparred with Christian forces](https://en.wikipedia.org/wiki/Charlemagne#Wars_with_the_Moors) in Spain and France. Early on we are also introduced to Raimbaut of Roussillon, a knight who has come to avenge his father who was killed by the Moor Argalif Isohar. Raimbaut initially displays a youthful and naive excitement to engage with the enemy but is dispirited when he finds out that the official order of battle is bureaucratic and his father's death is not remembered by anyone in the army. As usual, Calvino manages to make a delightful and fantastical mockery of medieval battles. Knights line and up and charge at each other, but make sure that no one is directly in the either's path to avoid *actual* combat. When actual battle does occur:
 
 > Here rank and intensity of insult was decisive, for according to whether offense given was mortal--to be wiped out in blood--medium or light, various reparations were laid down or even implacable hatreds transmitted to descendants. So the important thing then was to understand each other, not an easy thing between Moors and Christians and with the various Moorish and Christian languages; what did one do if along came an insult one just couldn't understand? One might find oneself swallowing it and being dishonored for life. So interpreters took part in this phase of the battle, light-armed men swiftly mounted on fast horses which swiveled around catching insults on the wing and translating them there and then into the language of destination.
 
-After nearly accidentally slaying Argalif Abdul, Raimbaut eventually finds Argalif Isohar, but is interrupted by his spectacle bearer. Somewhat unchivalrously, Raimbaut smashes the spectacles and slays the true Argalif. Why feeling proud of his accomplishment, Raimbaut never feels totally satisfied with his acquired revenge. A lesson that these *implacable hatreds* may be less the cathartic in practice.
+After nearly accidentally slaying Argalif Abdul, Raimbaut eventually finds Argalif Isohar, but is interrupted by his spectacle bearer. Somewhat unchivalrously, Raimbaut smashes the spectacles and slays the true Argalif. Why feeling proud of his accomplishment, Raimbaut never feels totally satisfied with the execution of his revenge. A lesson that these *implacable hatreds* may be less than cathartic in practice.
 
 The relationship between Agilulf and Raimbaut is always at cross purposes in the story. Raimbaut does not understand the loneliness of not-existing, and Agilulf does not understand Raimbaut's mortal passions. After the first battle, Raimbaut falls in love with the female warrior Bradamante after she saves him. Unfortunately for him, Bradamente is in love with Agilulf, who is either unaware or disinterest in requiting her love.[[^1]] How can a woman love a nonexistent knight?[[^2]]
 
@@ -45,7 +45,7 @@ While there are many ways to interpret *The Nonexistent Knight*, I believe Calvi
 
 ## The Cloven Viscount
 
-<p align="center"><img src="/figures/cloven.png" width="80%"></p
+<p align="center"><img src="/figures/cloven.png" width="33%"></p
 
 The second novella, *The Cloven Viscount* is one of Calvino's gothic masterpieces. Taking place in the 17th century when the Ottoman Empire was battle Christian armies in Central Europe, the Viscount Medardo leaves his ancestral home of Terralba to help wage war on behalf of Christendom. His inexperience on the battlefield leads to him charging a cannon and having a ball hit him at a close range leading to his body being cleanly severed in half from left to right. Luckily, battlefield medicine was able to stitch one side of Medardo back together.
 
@@ -69,9 +69,11 @@ When the Huguenots meet the Good 'Un, they quickly lose their enthusiasm since h
 
 > Thus the days went by at Terrabla, and our sensibilities became numbed, since we felt ourselves lost between an evil and a virtue equally inhuman.
 
+<br>
+
 * * *
 
-## References
+## Footnotes
 
 [^1]: In *Orlando furioso* by Ariosto [Bradamante](https://en.wikipedia.org/wiki/Bradamante) actually falls in love with a Saracen warrior.
 
