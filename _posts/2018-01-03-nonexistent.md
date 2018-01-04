@@ -45,7 +45,7 @@ While there are many ways to interpret *The Nonexistent Knight*, I believe Calvi
 
 ## The Cloven Viscount
 
-<p align="center"><img src="/figures/cloven.png" width="33%"></p
+<p align="center"><img src="/figures/cloven.png" width="33%"></p>
 
 The second novella, *The Cloven Viscount* is one of Calvino's gothic masterpieces. Taking place in the 17th century when the Ottoman Empire was battle Christian armies in Central Europe, the Viscount Medardo leaves his ancestral home of Terralba to help wage war on behalf of Christendom. His inexperience on the battlefield leads to him charging a cannon and having a ball hit him at a close range leading to his body being cleanly severed in half from left to right. Luckily, battlefield medicine was able to stitch one side of Medardo back together.
 
