@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <br>
-<p align="center"><img src="/figures/invisible_cities.jpg" witdth="50%"></p>
+<p align="center"><img src="/figures/invisible_cities.jpg" witdth="30%"></p>
 <br>
 
 A weary Kublai Khan sits in his garden and asks of Marco Polo to tell him of the cities of his empire he will never visit. Polo describes to him fifty-five cities he has seen -- each strange and fantastical -- cities whose properties are not by bound either physics or time. While being a slight parody on the *Travels of Marco Polo*, the cities we learn of from Polo in *Invisible Cities* are not just meant to be caricature of the confabulations of medieval travel literature but a deeper reflection of the nature of memory, space, and time. 
@@ -23,7 +23,8 @@ At first in a dark mood, the great Khan thinks poorly of his empire.
 
 The great Khan hopes to hear of stories, pockets of health, that will provide some relief to this pessimistic view. Or perhaps the seeds of Polo's stories will germinate into a new empire. 
 
-> > Kublai: Your cities do not exist. Perhaps they have never existed. It is sure they will never exist again. Why do you amuse yourself with consolatory fables? I know well that my empire is rotting like a corpse in a swamp, whose contagion infects the crows that peck it as well as the bamboo that grows, fertilized by its humours. Why do you not speak to me of this? Why do you lie to the emperor of the Tartars, foreigner?
+> Kublai: Your cities do not exist. Perhaps they have never existed. It is sure they will never exist again. Why do you amuse yourself with consolatory fables? I know well that my empire is rotting like a corpse in a swamp, whose contagion infects the crows that peck it as well as the bamboo that grows, fertilized by its humours. Why do you not speak to me of this? Why do you lie to the emperor of the Tartars, foreigner?
+
 > Marco: Yes, the empire is sick, and what is worse, it is trying to become accustomed to its sores. This is the aim of explorations: examining the traces of happiness still to be glimpsed, I gauge its short supply. If you want to know how much darkness there is around you, you must sharpen your eyes, peering at the faint lights in the distance. 
 
 What do each of these cities represent? At first blush it is difficult to infer given how wild they each seem.
@@ -48,7 +49,7 @@ Despite the absurdity of some of the cities, Calvino talks about each in a human
 
 <br>
 <h5><p align="center"> The city of Octavia </p></h5>
-<p align="center"><img src="/figures/drawing_cities4.jpg" witdth="25%"></p>
+<p align="center"><img src="/figures/drawing_cities4.jpg" witdth="10%"></p>
 <br>
 
 I see the madness in the institutions that develop in these cities as representing the blind design of mother nature and the acceptance of humans have of their lot. There is a feeling that the abstract level at which we learn of the chaos and the sorrow as well as the epiphanies and joys these inhabitants must experience could map onto our own situation; the same one that a distant observer in *Andromeda* would feel at observing our civilization. Still, with Calvino one can never be sure exactly what he means, and like a dream, these stories may just be projections of our inner thoughts being made with an elusive objective.
