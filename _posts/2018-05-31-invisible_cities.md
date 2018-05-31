@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <br>
-<p align="center"><img src="/figures/invisible_cities.jpg" witdth="30%"></p>
+<p align="center"><img src="/figures/invisible_cities.jpg" width="20%"></p>
 <br>
 
 A weary Kublai Khan sits in his garden and asks of Marco Polo to tell him of the cities of his empire he will never visit. Polo describes to him fifty-five cities he has seen -- each strange and fantastical -- cities whose properties are not by bound either physics or time. While being a slight parody on the *Travels of Marco Polo*, the cities we learn of from Polo in *Invisible Cities* are not just meant to be caricature of the confabulations of medieval travel literature but a deeper reflection of the nature of memory, space, and time. 
@@ -49,7 +49,7 @@ Despite the absurdity of some of the cities, Calvino talks about each in a human
 
 <br>
 <h5><p align="center"> The city of Octavia </p></h5>
-<p align="center"><img src="/figures/drawing_cities4.jpg" witdth="10%"></p>
+<p align="center"><img src="/figures/drawing_cities4.jpg" width="15%"></p>
 <br>
 
 I see the madness in the institutions that develop in these cities as representing the blind design of mother nature and the acceptance of humans have of their lot. There is a feeling that the abstract level at which we learn of the chaos and the sorrow as well as the epiphanies and joys these inhabitants must experience could map onto our own situation; the same one that a distant observer in *Andromeda* would feel at observing our civilization. Still, with Calvino one can never be sure exactly what he means, and like a dream, these stories may just be projections of our inner thoughts being made with an elusive objective.
@@ -59,5 +59,5 @@ I see the madness in the institutions that develop in these cities as representi
 *Invisible Cities* is a short book in page count, but a deep book in imagery and poetic content. Calvino's writing style is luscious and his narratives are always fantastical, creating a world which is both outrageous and gorgeous. Even after reading it, one may feel obliged to open a random page and be pleasantly refreshed at encountering, once again, the city of Argia which is made out of earth where most cities have air, and air where most cities have earth. Special credit must be given to William Weaver for his excellent translation too. Overall this book holds a special place in the Calvino canon.  
 
 <br>
-<p align="center"><img src="/figures/drawing_cities1.jpg" witdth="33%"></p>
+<p align="center"><img src="/figures/drawing_cities1.jpg" width="33%"></p>
 <br>
