@@ -1,5 +1,5 @@
 ---
-title: 'Invisible Cities (Book Review)'
+title: 'Invisible Cities by Italo Calvino (Book Review)'
 output: html_document
 fontsize: 12pt
 published: true
