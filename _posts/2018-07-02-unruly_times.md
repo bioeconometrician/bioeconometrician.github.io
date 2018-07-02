@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <br>
-<p align="center"><img src="/figures/unruly_times.jpg" width="25%"></p>
+<p align="center"><img src="/figures/unruly_times.jpg" width="20%"></p>
 <br>
 
 Just a few years before Europe was plunged into the decade long fighting of the [Napoleonic Wars](https://en.wikipedia.org/wiki/Napoleonic_Wars) a collection of poems simply titled [*Lyrical Ballads*](https://en.wikipedia.org/wiki/Lyrical_Ballads) was published in 1798 by William Wordsworth and Samuel Taylor Coleridge. In contrast to the baroque style of 18th century, the *Ballads* provided poetry with a breath of fresh air by using a simple and breezy language written in a diction that could be understood by the common man as well as writing about subject matter than could be appreciated by any class. This worked marked by the beginning of the [Romantic period](https://en.wikipedia.org/wiki/Romanticism) in English verse, which in turn produced some of the most well known poets of the English language (Blake, Byron, Shelley, and Keats in addition to Wordsworth and Coleridge). The term "fresh air" is appropriate in more way than one as the *Ballads* marked a shift away from poems about kings, queens, and epic battles in history towards the subjects of nature: birds and trees, flowers and the elemental forces. Just as the Impressionists found that they could better capture the spirit of the scene by painting [*en plein air*](https://en.wikipedia.org/wiki/En_plein_air), having grown up in the [Lake District](https://en.wikipedia.org/wiki/Lake_District), Wordsworth's poetical muse was to be found in the "steep woods and lofty cliffs" of North West England. 
@@ -35,9 +35,9 @@ While we know Coleridge as a poet today, in his life he viewed himself more as a
 
 The England of first half of the 18th century was a rapidly changing one due to forces of the [industrial revolution](https://en.wikipedia.org/wiki/Economic_history_of_the_United_Kingdom#The_Industrial_Revolution) and political reforms. While their personal lives were largely unaffected, both men saw the landscape of England evolving as vast stretches of open fields became [enclosed](https://en.wikipedia.org/wiki/Inclosure_Acts) upon (i.e. assigned to private landholders) and factories began to dot the landscape.
 
-<h5>
-<p align="center"> Coalbrookdale by Night </p></h5>
-<br><p align="center"><img src="/figures/factory.jpg" width="25%"></p>
+<br>
+<h5><p align="center"> Coalbrookdale by Night </p></h5>
+<p align="center"><img src="/figures/factory.jpg" width="50%"></p>
 <br>
 
 While both men's political views shifted after the catastrophes of the French Revolution towards being solidly Tory, Wordsworth became the far more reactionary of the two. While not noted by Byatt, the the political differences between the two men can still be seen in the divide in the modern conservative party. Conservative thought is largely sympathetic to the capitalist system and the business class, but the accompanying social changes that economic currents often bring causes a natural tension to a school of thought which is largely about maintaining the existing social order. 
@@ -112,7 +112,6 @@ In addition to the idea of the sublime, the idea of what made something [Picture
 
 > Ivy, in masses uncommonly large, has taken possession of many parts of the walls; and gives a happy contrast to the grey-coloured stone... Nor is this undecorated. Mosses of various hues, with lichens, maiden hair, penny-leaf and other humble plants, overspread the surface... all together they give those full-blown tints which add the richest finishing to a ruin.
 
-<br>
 <h5><p align="center"> Ruins of Tintern Abbey </p></h5>
 <p align="center"><img src="/figures/tintern_abbey.jpg" width="25%"></p>
 <br>
