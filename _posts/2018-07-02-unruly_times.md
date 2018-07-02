@@ -19,7 +19,7 @@ I often found myself, when reading this book, feeling more sympathetic for Coler
 
 > Wordsworth the young man was on the whole solitary, painfully proud, self-critical and self-suspecting. His letters and other writings have an overwhelming tone of high moral idealism and high poetic purpose, sometimes conflicting. He meant, even then, to be great, and nothing but the best would do, but the circumstances of his life--poverty, lack of family security, lack of practical vocation, responsibility to Annette[[^1]]--left him in doubt about when he would achieve or how he would achieve it. 
 
-Like so many young men, Wordsworth found his unrealistically high ideals far outstripping his intellectual and moral capability to satisfy his internal spectator. While many members of his family came from money, and Wordsworth was undoubtedly in modern parlance a "one percenter", in a time before a reliable banking system, wealth management, and the ever-present prospect of a European military conflagration even those at the top experienced financial uncertainty. 
+Like so many young men, Wordsworth found his unrealistically high ideals far outstripping his intellectual and moral capabilities to satisfy his internal spectator. While many members of his family came from money, and Wordsworth was undoubtedly in modern parlance a "one percenter", in a time before a reliable banking system, wealth management, and the ever-present prospect of a European military conflagration even those at the top experienced financial uncertainty. 
 
 > "It is impossible you can ever have your father's consent to a scheme which to a parent at least, if not to everyone else, must appear wild even to insanity. It is an observation to whose truth I have long since consented that small certainties are the bane of great talents."
 
@@ -40,11 +40,11 @@ The England of first half of the 18th century was a rapidly changing one due to 
 <p align="center"><img src="/figures/factory.jpg" width="50%"></p>
 <br>
 
-While both men's political views shifted after the catastrophes of the French Revolution towards being solidly Tory, Wordsworth became the far more reactionary of the two. While not noted by Byatt, the the political differences between the two men can still be seen in the divide in the modern conservative party. Conservative thought is largely sympathetic to the capitalist system and the business class, but the accompanying social changes that economic currents often bring causes a natural tension to a school of thought which is largely about maintaining the existing social order. 
+While both men's political views shifted after the catastrophes of the French Revolution towards being solidly Tory, Wordsworth became the far more reactionary of the two. While not noted by Byatt, the the political differences between the two men can still be seen in the divide in the modern conservative party (the City vs the Shires). Conservative opinion is largely sympathetic to the capitalist system and the business class, but the accompanying social changes that economic currents often bring causes a natural tension to a school of thought which is largely about maintaining the existing social order. 
 
 > Coleridge, in fact, was not as Wordsworth pictured him ... [H]e enjoyed city life and was peculiarly able to cope with the academic education system, wince he was extremely gifted and much more excited by pure ideas--geometric, linguistic, philosophic--than Wordsworth would ever be.
 
-The industrial revolution and expansion of democratic privileges in Britain in the 19th century was more concerning to Wordsworth, who was simultaneously upset by the plight of the poor and their growing political influence as manifested through the "mob". The former sentiment is well-echoed in the [well-known sonnet](https://en.wikipedia.org/wiki/The_World_Is_Too_Much_with_Us):
+The industrial revolution and expansion of democratic privileges in Britain in the 19th century was more concerning to Wordsworth, who was simultaneously upset by the plight of the poor as well as their growing political influence as manifested through the "mob". The former sentiment is well-echoed in the [well-known sonnet](https://en.wikipedia.org/wiki/The_World_Is_Too_Much_with_Us):
 
 > The world is too much with us: late and soon
 >
@@ -52,7 +52,7 @@ The industrial revolution and expansion of democratic privileges in Britain in t
 >
 > Little we see in Nature that is ours;
 
-In 1832 Wordsworth wrote:
+Whereas the latter can be seen in this statement from 1832:
 
 > If the democratic Spirit be organized in Legislation to the extent now wished for, and aimed at by many, the pecuniary value of every thing in the world of Taste will sink accordingly; and its intellectual estimation will also erelong be proportionately affected. Men will have neither time, tranquility, or disposition to think about any such thing. 
 
@@ -64,7 +64,7 @@ Both men's political conversion was strongly influenced by Edmund Burke, who is 
 
 > Edmund Burke possessed and had sedulously sharpened that eye which sees all things, actions and events in relation to the laws that determine their existence and circumscribe their possibility. He referred habitually to principles. He was a scientific statesman; and therefore a seer. For every principle contains in itself the germs of a prophecy; and as the prophetic power is the essential privilege of science, so the fulfillment of its oracles supplies the outward and (to men in general) the only test of its claim to the title. Wearisome as Burke's refinements appeared to his parliamentary auditors, yet the cultivated classes throughout Europe have reason to be thankful that he went of refining and thought of convincing while they thought of dining.
 
-One area in which both men were and remained progressive throughout their life was in the education of children. Both had experienced and thought terrible the way in which education was a brutalizing experience for most children. Jean-Jacques Rousseau's [Emile](https://en.wikipedia.org/wiki/Emile,_or_On_Education) had a disproportionate effect on the thinking of Men of Feeling towards the subject of education and how this formative experience could create the ideal and humane citizen. 
+One area in which both men were and remained progressive throughout their life was in the education of children. Both had experienced and thought terrible the way in which education was a brutalizing experience for most students. Jean-Jacques Rousseau's [Emile](https://en.wikipedia.org/wiki/Emile,_or_On_Education) had a disproportionate effect on the thinking of Men of Feeling towards the subject of education and how this formative experience could create the ideal and humane citizen. 
 
 > Coleridge's notebooks make it clear that he was a precise and loving observer of his own children's development. He believed children should be happy--his own childhood anxieties had left marks on his character which he associated with his adult failures and illnesses. 
 
@@ -118,6 +118,7 @@ In addition to the idea of the sublime, the idea of what made something [Picture
 
 While being a strong support of the Church of England and a thorough Anglican, Byatt points out that some of Wordsworth's language when applied to the descriptions of nature strike one as being pantheistic: "something far more deeply interfused/Whose dwelling is the light of setting suns/And the round ocean and the living air/And the blue sky and in the mind of man". As Ross Douthat has pointed out, even those individuals in the West who describe themselves as Christian, are often practicing a watered-down *Eat, Pray Love* or *Oprah* form of worship. The enduring popularity of the English Romantic poets must be in no small part to their intimate relationships to Nature. There is little opposition from almost quarters today that a strong relationship with the natural world is both desirable and healthy. While the forces that the Romantics were reacting to (capitalism, the industrial revolution, etc) now seen to us inevitable (and hopefully desirable), there a lingering distrust of the technological changes that continues to draw us back to the beauty of [Daffodils](https://en.wikipedia.org/wiki/I_Wandered_Lonely_as_a_Cloud) and romantic reveries of [Kubla Khan](https://en.wikipedia.org/wiki/Kubla_Khan). 
 
+<br>
 
 * * * 
 
