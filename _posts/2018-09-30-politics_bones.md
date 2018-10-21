@@ -27,10 +27,7 @@ I am embarrassed to say that there were some evenings when I was unable to read 
 
 * * *
 
-[^1]: To be clear, Britain's intentions in this regard were not to have mass education of the Nigerian population, but rather a sufficiently talented elite. Although this policy ultimately led to elites that were able to lead the struggle for colonial independence.
-
-<iframe src="https://player.vimeo.com/video/159872132" width="640" height="486" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/159872132">Yes Minister S2ep2 - Doing The Honours - Jailed by the British</a> from <a href="https://vimeo.com/user50282846">yesmin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[^1]: To be clear, Britain's intentions in this regard were not to have mass education of the Nigerian population, but rather a sufficiently talented elite. Although this policy ultimately led to [elites that were able to lead the struggle for colonial independence](https://vimeo.com/159872132).
 
 [^2]: However in last 15 years Nigeria has seen real economic growth and rising living standards -- a trend which has been observed in many other African countries. However the drivers of Nigeria's future economic growth are almost surely to come from urbanization and the growth of the service sector in mega-cities like Lagos, rather than improved management of its oil reserves.
 
