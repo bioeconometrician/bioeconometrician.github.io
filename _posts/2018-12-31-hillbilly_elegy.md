@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <br>
-<p align="center"><img src="/figures/hillbilly_elegy.jpg" width="18%"></p>
+<p align="center"><img src="/figures/hillbilly_elegy.jpg" width="25%"></p>
 <br>
 
 
@@ -30,6 +30,7 @@ These places that once offered career opportunities and communities that matched
 <h5><p align="center"> Figure: Drug overdoses are concentrated in the Rust Belt </p></h5>
 <p align="center"><img src="/figures/overdose_by_state.jpg" width="90%"></p>
 Source: [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
+<br>
 <br>
 
 The timing of J. D. Vance's *Hillbilly Elegy* was a publishers dream coinciding in the same year that Trump's electoral victory stunned many of the liberal pundits. In this beautifully written book Vance gives us a vignette into his family's troubled past and present history--a story of a briefly held spell of American prosperity followed by a tragic decline. Vance's grandparents (affectionately referred to as Mamaw and Papaw) left Kentucky in hurry in the early 1950s due to a teenage pregnancy (that ultimately resulted in a miscarriage). The couple ended up in Middletown, Ohio, where Papaw found a good paying job with Armco Steel. While the family income of Vance's grandparents was at a level unimaginable to their Kentucky relatives, they found their cultural heritage was ill-at-ease (to put it mildly) with the traditional white suburban culture of Ohio. The Scots-Irish hillbillies of the Appalachians, to which Mamaw and Papaw definitely belonged, more closely resembled the violent and irascible behaviors of the 17th century highlanders than the ideal American family à la *I Love Lucy*. 
