@@ -68,11 +68,11 @@ One issue with this book that I found annoying was the author's constant need to
 
 * * * 
 
-[^1]: The 1990s must have been a simpler era when one considers that the entire political and media establishment could be consumed by presidential sex scandal whose impeachment proceedings could be based on the forensic evidence of a [blue dress](https://en.wikipedia.org/wiki/Clinton%E2%80%93Lewinsky_scandal).
+[^1]: The 1990s must have been a simpler era when one considers that the entire political and media establishment of the United States could be consumed by a presidential sex scandal whose impeachment proceedings could be based on the forensic evidence of a [blue dress](https://en.wikipedia.org/wiki/Clinton%E2%80%93Lewinsky_scandal).
 
 [^2]: Source: [FRED Economic Data](https://fred.stlouisfed.org/series/NYGDPPCAPKDCAN).
 
-[^3]: In contrast things are actually going quite well for the world *as a whole*. Global income inequality [is falling](https://piie.com/publications/working-papers/future-worldwide-income-distribution) since income gap between between countries is falling faster than income inequality is rising within countries, and almost every measure of human flourishing has shown [marked improvements](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts) over every decade in the last thirty years including the number of people living in extreme poverty, literacy and child mortality.
+[^3]: In contrast things are actually going quite well for the world *as a whole*. Global income inequality [is falling](https://piie.com/publications/working-papers/future-worldwide-income-distribution) since the income gap between between countries is falling faster than income inequality is rising within countries, and almost every measure of human flourishing has shown [marked improvements](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts) over every decade in the last thirty years including the number of people living in extreme poverty, literacy and child mortality.
 
 [^4]: From a statistical perspective this factoid is also problematic due to a selection bias: individuals most comfortable living in a racially diverse metropolis are more likely to live there, whereas individuals who prefer more homogeneous communities may have already moved for this very reason. 
 
