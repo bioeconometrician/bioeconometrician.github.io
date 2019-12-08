@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <br>
-<p align="center"><img src="/figures/fromwhereistand.jpg" width="15%"></p>
+<p align="center"><img src="/figures/fromwhereistand.jpg" width="20%"></p>
 <br>
 
 During the 2015 Canadian Election campaign an innocent-seeming Justin Trudeau promised a different type of politics, one of "sunny ways". This remark helped to contrast the young Trudeau's leadership style to the seemingly dour and cold Prime Ministership of Stephen Harper. Four years later the sun had been fully eclipsed by the dark clouds of the [SNC-Lavalin scandal](https://en.wikipedia.org/wiki/SNC-Lavalin_affair). In early February the Globe and Mail published an [article](https://www.theglobeandmail.com/politics/article-pmo-pressed-justice-minister-to-abandon-prosecution-of-snc-lavalin/) which suggested that Jody Wilson-Raybould had been booted out as Minister of Justice for her refusal to offer the Quebec-based firm SNC-Lavalin a deferred prosecution agreement (DPA).[[^1]] By the end of the month Jody had delivered a devastating testimony in the Justice Committee. The media anticipation for the event was unparalleled in recent Canadian political history and JWR's opening sentences did not disappoint: 
