@@ -14,4 +14,4 @@ mathjax: true
 In episode 1 of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) Jaryd and I discuss recent events in Canadian politics including the [2019 Canadian Election](https://en.wikipedia.org/wiki/2019_Canadian_federal_election), [Wexit](https://en.wikipedia.org/wiki/Alberta_separatism#Wexit), Scheer's [leadership crisis](https://en.wikipedia.org/wiki/Andrew_Scheer#2019_federal_election_results), and the redoubtable [JWR](https://en.wikipedia.org/wiki/Jody_Wilson-Raybould).  
 
 <br>
-<p align="center"><img src="/figures/bellcurve.jpg" width="30%"></p>
+<p align="center"><img src="/figures/bellcurve.jpg" width="20%"></p>
