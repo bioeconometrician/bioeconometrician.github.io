@@ -7,7 +7,7 @@ fontsize: 12pt
 permalink: /about/
 ---
 
-I am a believer in the unity of scientific pursuits and domain-general learning over partitioned endeavours. My intellectual interests are diverse and range from poetry to machine learning. I keep a more serious intellectual account [here](http://erikdrysdale.com).
+This blog is an informal complement to its technical [counterpart](http://erikdrysdale.com) and is mainly composed of book reviews. My intellectual interests are fairly broad but are focused around history, politics, science, statistics, as well as some select fiction and poetry.
 
 The philosophy of this blog is as follows:
 
