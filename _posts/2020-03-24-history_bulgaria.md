@@ -37,7 +37,7 @@ The Ottoman's subjugation of the Balkan lands has come to be epitomized in the c
 
 <br>
 <p align="center"><i> Mimar Sinan's bridge in Edirne </i></p>
-<p align="center"><img src="/figures/bayezid_bridge_06.jpg" width="40%"></p>
+<p align="center"><img src="/figures/bayezid_bridge_06.jpg" width="43%"></p>
 <br>
 
 The Ottoman's influence in central and eastern Europe  reached its peak in 1683 when Sultan Mehmet IV's troops reached the gates of Vienna. After they were [defeated](https://en.wikipedia.org/wiki/Battle_of_Vienna), the Austro-Hungarian empire began to conquer back territory and Ottoman vassal states gained more autonomy. By the 19th century, a period known as the *kurdjaliistvo* had descended with Ottoman administrative capacity having virtually collapsed in the Balkans with lawless gangs and ruthless lords stealing as much from the peasantry as they could. 
@@ -50,7 +50,7 @@ Anyone reading history with a training in economics will notice the way extracti
 
 <br>
 <p align="center"><i> Zlatita clock tower: a symbol of national revival </i></p>
-<p align="center"><img src="/figures/zlatista_clock.jpg" width="33%"></p>
+<p align="center"><img src="/figures/zlatista_clock.jpg" width="28%"></p>
 <p align="center"><i> The 300-year old <a href="https://tinyurl.com/redtdux">clock</a> was the first in Bulgaria to have a European architectural style and was a symbol of modernity </i></p>
 <br>
 
@@ -85,7 +85,7 @@ Russia was greeted by the Bulgarian population as liberators. Not only was there
 > With the signing of the treaty of Berlin, despite its many shortcomings from the Bulgarian point of view, the modern Bulgarian state had been born. Unlike the Bulgarian church it was the creation more of external than internal forces. 
 
 <p align="center"><i> Bulgaria's borders after revision </i></p>
-<p align="center"><img src="/figures/san_stefano.png" width="33%"></p>
+<p align="center"><img src="/figures/san_stefano.png" width="50%"></p>
 
 The one place in the book where the prose become especially engaging is during the post-independence period. This turns out to unsurprising as Crompton's academic work includes *Bulgaria 1878-1918: A History*. Leading up to the First World War, Bulgarian historical development is focused around the solidification of the nation state, an establishment of the monarchy, and its relations with its Balkan neighbors and the regional great powers. Less than ten years after its independence, Bulgaria would be attacked by the newly-formed and revanchist nation of Serbia and would end up [winning](https://en.wikipedia.org/wiki/Battle_of_Slivnitsa) its most glorious (and arguably last) military victory in Europe.
 
@@ -138,7 +138,7 @@ Simeon's policy built on the Kostov regime and continued to push for admission t
 
 <br>
 <p align="center"><i> Return of a King </i></p>
-<p align="center"><img src="/figures/simeon.png" width="40%"></p>
+<p align="center"><img src="/figures/simeon.png" width="30%"></p>
 <br>
 
 By taking a step back Bulgaria's history can be seen as one of amazing swings and cycles.
