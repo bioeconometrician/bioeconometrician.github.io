@@ -37,7 +37,7 @@ The Ottoman's subjugation of the Balkan lands has come to be epitomized in the c
 
 <br>
 <p align="center"><i> Mimar Sinan's bridge in Edirne </i></p>
-<p align="center"><img src="/figures/bayezid_bridge_06.jpg" width="25%"></p>
+<p align="center"><img src="/figures/bayezid_bridge_06.jpg" width="40%"></p>
 <br>
 
 The Ottoman's influence in central and eastern Europe  reached its peak in 1683 when Sultan Mehmet IV's troops reached the gates of Vienna. After they were [defeated](https://en.wikipedia.org/wiki/Battle_of_Vienna), the Austro-Hungarian empire began to conquer back territory and Ottoman vassal states gained more autonomy. By the 19th century, a period known as the *kurdjaliistvo* had descended with Ottoman administrative capacity having virtually collapsed in the Balkans with lawless gangs and ruthless lords stealing as much from the peasantry as they could. 
@@ -50,7 +50,7 @@ Anyone reading history with a training in economics will notice the way extracti
 
 <br>
 <p align="center"><i> Zlatita clock tower: a symbol of national revival </i></p>
-<p align="center"><img src="/figures/zlatista_clock.jpg" width="20%"></p>
+<p align="center"><img src="/figures/zlatista_clock.jpg" width="33%"></p>
 <p align="center"><i> The 300-year old <a href="https://tinyurl.com/redtdux">clock</a> was the first in Bulgaria to have a European architectural style and was a symbol of modernity </i></p>
 <br>
 
@@ -67,7 +67,7 @@ The religious struggles were waged largely in ecclesiastical circles but had nat
 > In the struggle for the establishment of a separate Bulgarian church the modern Bulgarian nation had been created. The process had begun when, in conformity with the then largely unknown injunction of Paiisi, Bulgarians began to know their own nation and to study in their own tongue. They had since then developed a nation-wide educational system, they had produced their own intelligentsia, and they had pitted themselves against the Greek-dominated clerical hierarchy. The exarchate could now represent the interests of the Bulgarian nation in the Ottoman corridors of power.
 
 <p align="center"><i> St. Stephen's church in Istanbul </i></p>
-<p align="center"><img src="/figures/balat.jpg" width="25%"></p>
+<p align="center"><img src="/figures/balat.jpg" width="42%"></p>
 
 ## Independence
 
@@ -76,7 +76,7 @@ From the Ottoman perspective, the situation in Bulgaria was dire. The spirit of 
 > In Russia, Britain, and elsewhere there were increasingly loud calls for action to prevent any further outrages. **The Bulgarian question had become a European one**. 
 
 <p align="center"><i> Ottoman reprisals in <a href="https://en.wikipedia.org/wiki/Batak_massacre">Batak</a> </i></p>
-<p align="center"><img src="/figures/batak.jpg" width="27%"></p>
+<p align="center"><img src="/figures/batak.jpg" width="45%"></p>
 
 The [Congress of Europe](https://en.wikipedia.org/wiki/Concert_of_Europe) put significant pressure on the Ottomans to reform their administration of the their European holdings. The Sultan agreed in principle, but he refused to allow foreign supervision to ensure that the rights of Christian subjects were actually being protected on the ground. Russia declared [war](https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878)) in response. Despite expectations of any easy victory, Ottoman forces were able to hold onto strong defensive positions for several months with the use of the new breech-loading [Martini-Henry](https://en.wikipedia.org/wiki/Martini%E2%80%93Henry) rifle. After nearly being driven off by a counter-attack at the [Shipka Pass](https://en.wikipedia.org/wiki/Battle_of_Shipka_Pass), Russian troops with significant aid from the *[opalchentsi](https://en.wikipedia.org/wiki/Bulgarian_Volunteer_Corps)* (Bulgarian volunteers) drove the enemy all the way down to outskirts of Istanbul. 
 
@@ -138,7 +138,7 @@ Simeon's policy built on the Kostov regime and continued to push for admission t
 
 <br>
 <p align="center"><i> Return of a King </i></p>
-<p align="center"><img src="/figures/simeon.png" width="18%"></p>
+<p align="center"><img src="/figures/simeon.png" width="40%"></p>
 <br>
 
 By taking a step back Bulgaria's history can be seen as one of amazing swings and cycles.
