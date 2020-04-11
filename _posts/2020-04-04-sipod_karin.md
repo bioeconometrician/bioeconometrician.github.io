@@ -8,8 +8,9 @@ mathjax: true
 ---
 
 <p align="center">
-<iframe title="A Deep Dive in Computational Genetics" src="https://www.podbean.com/media/player/ncq6w-884921e-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" style="border: none;" scrolling="no" data-name="pb-iframe-player" width="100%" height="122"></iframe>
+<iframe title="A Discussion about Cancer Research" src="https://www.podbean.com/media/player/ncq6w-884921e-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" style="border: none;" scrolling="no" data-name="pb-iframe-player" width="100%" height="122"></iframe>
 </p>
+
 
 In episode 4 of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) I am joined by Karina Isaev who works as a computational biologist at the [Princess Margaret Cancer Centre](http://kridel-lab.ca/Team/). Karina provides an excellent overview of her research topics and their relevance to cancer biology.
 
