@@ -23,7 +23,7 @@ https://www.thestar.com/sponsored_sections/adultlikeapro/2018/09/28/nation.html
 https://www.citylab.com/design/2019/05/residential-zoning-code-density-storper-rodriguez-pose-data/590050/
 https://www.cambridge.org/core/books/evidence-and-innovation-in-housing-law-and-policy/rise-of-the-homevoters-how-the-growth-machine-was-subverted-by-opec-and-earth-day/574C995DC14AFFD1BD71A70C5804C87B
 
-
+Sean Galbraith says of Toronto: "If it's not already there, you can't build it."
 
 Sonja Strauss
 https://www.youtube.com/watch?v=uCqxaIpoevE
@@ -33,3 +33,4 @@ https://www.youtube.com/watch?v=i2aP5d04MSw
 
 Mayor London Breed
 https://www.youtube.com/watch?v=QCIecZPtXC8
+
