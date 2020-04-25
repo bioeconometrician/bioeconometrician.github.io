@@ -11,6 +11,10 @@ mathjax: true
 <p align="center"><img src="/figures/goldengates.jpg" width="16%"></p>
 <br>
 
+https://www.thestar.com/opinion/star-columnists/2019/06/12/why-every-residential-street-in-toronto-could-use-a-little-apartment-building.html
+
+https://www.thestar.com/business/real_estate/2019/03/16/why-its-so-hard-to-get-housing-into-torontos-yellowbelt-neighbourhoods-and-how-experts-say-it-can-be-done.html
+
 
 https://www.kit.ntnu.no/sites/www.kit.ntnu.no/files/Black%20to%20the%20Future%20(Dery)_0.pdf
 http://www.stateofthecity.ca/
