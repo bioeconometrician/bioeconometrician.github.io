@@ -23,21 +23,21 @@ In modern history being a Jew in Eastern Europe has not been an easy existence. 
 In March 1941 Bulgaria officially committed itself to the Axis military alliance by signing the [Tripartite Pact](https://en.wikipedia.org/wiki/Tripartite_Pact). German troops were now free to move through the country to attack Greece, and would [do so](https://en.wikipedia.org/wiki/Battle_of_Greece) in April 1941. Though Bulgaria's military alliance with the Axis powers was constrained and her troops would not serve outside of the country's expanded borders (which now included parts of Greece).[[^2]] Amazingly Bulgaria would never be at war with the Soviet Union even after the Germans invaded in June 1941. It was the only militarily-aligned country where both the USSR and Nazi Germany had functioning embassies.
 
 <br>
-<p align="center"><img src="/figures/filov_tripartite.jpg" width="30%"></p>
+<p align="center"><img src="/figures/filov_tripartite.jpg" width="35%"></p>
 <p align="center"><i>Bulgaria's prime minister signing the Tripartite Pact </i></p>
 <br>
 
 The political situation became increasingly ominous for the the Jews of Bulgaria after the signing of the pact. Within the government there were a triumvirate of powerful anti-Semitic forces: the prime minister [Bogdan Filov](https://en.wikipedia.org/wiki/Bogdan_Filov), the interior minister [Petar Gabrovski](https://en.wikipedia.org/wiki/Petar_Gabrovski), and [Alexander Belev](https://en.wikipedia.org/wiki/Alexander_Belev) who led the Commissariat of Jewish Affairs (the KEV). All three men were thoroughly pro-German, hostile to Jewish interests, and in the case of the last two, part of the Bulgarian Fascist organization the [Ratniks](https://en.wikipedia.org/wiki/Ratniks). Gabrovski had already sent Belev to Germany to study the Nuremberg laws and he helped draft Bulgarian's equivalent legislation: The Law for the Defence of the Nation ([ZNN](https://en.wikipedia.org/wiki/Law_for_Protection_of_the_Nation)). The ZNN stripped Bulgaria's Jews of their economic and political freedoms. Jews were given a special curfew, banned from owning radios, required to surrender their bank accounts, and forced to relocate from Sofia -- among other injustices. Despite making up a disproportionate number of soldiers and war heroes that had served in Bulgaria's army during the Balkan and First World War, Jews were no longer allowed to serve in the combat units of the army and were [impressed](https://en.wikipedia.org/wiki/Impressment) into labour units responsible for road building and other infrastructure projects. Despite the denigration of status, most of Bulgaria's Jews remained proud of the country. 
 
 <br>
-<p align="center"><img src="/figures/jewish_labour.jpg" width="60%"></p>
+<p align="center"><img src="/figures/jewish_labour.jpg" width="55%"></p>
 <p align="center"><i>Jewish labour units in Bulgaria </i></p>
 <br>
 
 The first request for Bulgaria's Jews to deported to German concentration camps came in February 1942. The Bulgarians dismissed the proposal as impractical and economically damaging. However the Bulgarian government accepted that any Jews living in country's newly acquired territories of Macedonia and Thrace (in Greece) would not be protected. Official plans acknowledged that all 12,000 Jews that lived in the occupied territories would be deported by March 10th, 1943.[[^3]] As the KEV began to meticulously plan the March deportations, Belev convinced Gabrovski to allow for an additional 8,000 Jews living in Bulgaria who were considered "trouble-makers" to be added to the list. As the date approached the modified Belev plan was leaked by numerous Bulgarians to leaders of the Jewish communities. Panic ensued. The first successful forces to coalesce occurred at [Kyustendil](https://en.wikipedia.org/wiki/Kyustendil) on March 9th a day before the first deportations were to occur. A delegation of four Bulgarian gentiles led by the [Dimitar Peshev](https://en.wikipedia.org/wiki/Dimitar_Peshev) left the city with haste to Sofia in order to convince the prime minister to put a stop to the deportation plan.[[^4]] Unable to meet Filov, they instead met the interior minister who denied the existence of a deportation plan for Bulgaria's Jews. Calling his bluff, Peshov demanded the minister call one of the district governors to see if they had received such orders. Gabrovski feigned surprise and put out an order to stop any  deportations.
 
 <br>
-<p align="center"><img src="/figures/peshev.jpg" width="15%"></p>
+<p align="center"><img src="/figures/peshev.jpg" width="25%"></p>
 <p align="center"><i>Dimitar Peshev helped prevent the March 10th deportations at the last minute </i></p>
 <br>
 
@@ -60,7 +60,7 @@ Less than a month later, Boris was summoned to a meeting with Hitler at his [Eag
 Despite the March cancellation and the King's "labour" insurance policy in April, Belev would mount one more deportation attempt in May 1943. A political assassination carried out by a Jewish communist was used as a pretext for the need to bolster Bulgaria's internal security. Belev drew up a meticulous plan that would be able to deport 16,000 Jews a month starting on June 1st. Once again though the plans were leaked and the Jewish leadership began to frantically lobby key influencers in the government. [Metropolitan Stefan](https://en.wikipedia.org/wiki/Stefan_I_of_Bulgaria) would lead the public protest throughout the month of May. He spoke directly to senior Bulgarian leaders during the Saint Kyril celebration day telling them to end Jewish persecution and also wrote and called the Palace on numerous occasions. Former ministers, writers, poets, and friends of the King (like [Elin Pelin](https://en.wikipedia.org/wiki/Elin_Pelin)) volunteered to lobby the Palace to plead for clemency. One of the reasons *Beyond Hitler's Grasp* is so compelling is that even though I knew that the deportations were going to somehow be cancelled I was completely at a loss as to how the impending tragedy was going to be avoided and I was desperate to finish reading the book to find out! 
 
 <br>
-<p align="center"><img src="/figures/stefan.jpg" width="20%"></p>
+<p align="center"><img src="/figures/stefan.jpg" width="30%"></p>
 <p align="center"><i>Stefan lead the Bulgarian Church's resistance to the deportations in May 1943</i></p>
 <br>
 
