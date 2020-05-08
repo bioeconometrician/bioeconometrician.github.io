@@ -1,5 +1,5 @@
 ---
-title: 'Beyond Hitler's Grasp by Michael Bar-Zohar (Book Review)'
+title: "Beyond Hitler's Grasp by Michael Bar-Zohar (Book Review)"
 output: html_document
 fontsize: 12pt
 published: true
