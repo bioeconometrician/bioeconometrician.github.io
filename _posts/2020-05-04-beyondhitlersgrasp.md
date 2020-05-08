@@ -97,9 +97,9 @@ After the war almost every Bulgarian Jew left the country to Israel between 1948
 * * * 
 <br>
 
-[^1]: Hitler dubbed Boris the "Fox", which he meant as a complement, due to his skilled ability to leave leave a meeting without having promised anything but remaining on good terms with his counterpart.
+[^1]: Hitler dubbed Boris the "Fox" (which he meant as a complement) due to the King's ability to leave a meeting on good terms while simultaneously having avoided the promise to do anything in specific. 
 
-[^2]: This arrangement would be similar to that of Finland's who troops would not leave the country's pre-invasion territorial boundaries even after having pushed out Soviet forces.
+[^2]: This arrangement would be similar to that of Finland's whose troops would not leave the country's pre-invasion territorial boundaries even after having pushed out Soviet forces.
 
 [^3]: In fact every person in the newly occupied territories *except Jews* would be granted Bulgarian citizenship.
 
