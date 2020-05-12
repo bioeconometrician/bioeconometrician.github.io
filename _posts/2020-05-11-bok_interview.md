@@ -7,14 +7,19 @@ status: publish
 mathjax: true
 ---
 
-Origin of Bök becoming a poet
-Commercial success or lack there of in poetry and why poets are deluded.
-Discussion about the only, arguably, massively commercially successful poet Rupi Kaur.
-How the internet/social media has changed poetry but poets don't seem to be responding
-Dictotomy between egotistical sublime and negative capability. 
-Teaching Poetry
+Christian Bök is one of my favourite poets. I became first became aware of his work with *[Eunoia](https://chbooks.com/Books/E/Eunoia)*, which is a critically-acclaimed collection of univocalic poems: each chapter uses only a single vowel. The work is a masterpiece and took Bök many years to write. Each chapter manages to focus on a theme. For example the "E" chapter is mainly about Helen of Troy. Not only does antilipogrammatic constrained writing demonstrate the flexibility and robustness of language it also reveals an otherwise hidden characteristic of vowels. The vowel "U" is shown to be crass, "E" is elegant, "I" is sharp, "O" is monastic, and "A" is delicious. 
 
-At one point Bök mentions that *I've explored eight trillion different worlds and in only one world does poetry exists*. I do not think think is accurate. 
+Bök's newest project is the [Xenotext](https://www.poetryfoundation.org/harriet/2011/04/the-xenotext-works) which seeks to encode a poem into DNA (under an amino acid to to letter mapping). Do the [complementary](https://en.wikipedia.org/wiki/Complementarity_(molecular_biology)) property of DNA, during transcription a second poem will be created in the mRNA (and possibly a protein in translation). The English part of the Xenotext poem therefore has an encipherment that maps every letter in the English alphabet to another to allow the genetic poem to maintain its meaning. 
+
+Because Bök's work is so interesting I decided to transcribe a recent [podcast interview](https://penteractpress.com/p-p-p/2020/3/6/episode-01-christian-bk) he had with Anthony Etherin who is himself another well-known constrained poet. Etherin helped to found [Penteract Press](https://penteractpress.com/) which publishes constrained poetry collection. The interview covers a wide range of topics including the origin of Bök becoming a poet, poetry's failure to achieve commercial success, whether poets are deluded and naive, significant comment on the recent success of Rupi Kaur, how the internet and social media are changing poetry, and the philosophical approaches of the egotistical sublime and negative capability in poetry. 
+
+I've taken several editorial liberties in the transcript below including interpolating sentences, deleted repeated phrases, adding words where their meaning was evident, and deciding were to establish sentences. There are a few places where I have added links to comments. As much as I like Bök he does seem to have a tendency for grandiloquence. For example he says *I've explored eight trillion different worlds and in only one world does poetry exists*. I know this statement to be erroneous as my partner was able to come up with a conceptual poem of the constrained type that Bök used in the Xenotext in under 15 minutes.[[^1]] I am confident that there would be other mappings that would allow for poems to emerge.
+
+<br>
+<p align="center"><img src="/figures/constrained_poem.png" width="50%"></p>
+<br>
+
+Nevertheless the conversation is an excellent elucidation into the avant-garde and constrained perspective. Bök argues, as he has elsewhere, that poetry's failure to embrace and learn from science means that there are many avenues of poetic exploration that have been left unexplored. After centuries of separation the fine arts and sciences have no language by which to speak to each other. This is a shame, and hopefully Bök's work will begin to start a reconciliation. 
 
 
 * * * 
@@ -27,7 +32,7 @@ At one point Bök mentions that *I've explored eight trillion different worlds a
 
 To the credit of my working class parents they actually purchased a green plastic typewriter designed for children. I got this machine on Christmas day and I was taught very quickly how to use it. I promptly scrolled a sheet of paper in the platen and opened up my favourite book, an encyclopaedia of machines, that my dad had on his shelf. I was a weird kid who really enjoyed this strange book that showed exploded views of ordinary devices like toasters and fire extinguishers and had an explanation of them besides these diagrams. All I did was look at the glyphs on the page, find the shape on the keyboard and then hit the key. Even though I was illiterate, I'm only four years old, I would nevertheless sit there for hours typing out this encyclopaedia of machines. I would show each page to my mother and say "Look I'm a writer" because I had transcribed a page of written text from an encyclopaedia. I think that's how I became a writer. 
 
-Now oddly enough, nearly two decades later I ended up in participating in the founding of an avant-garde literary movement in which we actually spend time retyping page from books and publishing them as works of poetry.[[^1]] I think that the origins of my life as a poet begin when I was given that green plastic typewriter for Christmas and proceeded to pretend that I was a writer by typing out glyphs and marks from what was at the time my favourite book. When I was at university in my undergraduate days I took classes in writing and I was a very responsible as a student -- I did everything that the teacher told me to do, and I wrote poetry that was merely okay. It was mediocre lyric poetry. I could get the occasional poem published, but at the time I recognized that I wasn't going to be very good as poet. And it was only when I entered graduate school and learned something about the history of the avant-garde in poetry that I think I came to my full fruition as a burgeoning poet. I learned that I was attempting to become the type of poet I could be, not the kind of poet I should be. I think that that's the nature of avant-garde poetry: to be the kind of poet you can be rather than the one you must be or have to be because someone tells you that's how you have to be.
+Now oddly enough, nearly two decades later I ended up in participating in the founding of an avant-garde literary movement in which we actually spend time retyping page from books and publishing them as works of poetry.[[^2]] I think that the origins of my life as a poet begin when I was given that green plastic typewriter for Christmas and proceeded to pretend that I was a writer by typing out glyphs and marks from what was at the time my favourite book. When I was at university in my undergraduate days I took classes in writing and I was a very responsible as a student -- I did everything that the teacher told me to do, and I wrote poetry that was merely okay. It was mediocre lyric poetry. I could get the occasional poem published, but at the time I recognized that I wasn't going to be very good as poet. And it was only when I entered graduate school and learned something about the history of the avant-garde in poetry that I think I came to my full fruition as a burgeoning poet. I learned that I was attempting to become the type of poet I could be, not the kind of poet I should be. I think that that's the nature of avant-garde poetry: to be the kind of poet you can be rather than the one you must be or have to be because someone tells you that's how you have to be.
 
 ## Being successful as a poet today
 
@@ -156,7 +161,7 @@ The reason I spent so much time on this was was that a lot of effort had already
 What I've done here is something analogous. To understand why it's so difficult to do that imagine pairing off all the letters of the alphabet so that they are mutually encoded to each other. So that if you were to assign A to T, you would assign T to A, if you assign N to H, you assign to H to N, if you assign Y to E you assign E to Y, etc. Pair off the letters so they are mutually encoded. Now imagine that of all the possibilities you can pick one (there's about 8 trillion different cyphers that conform to that constraint) such that if you write a poem and then substitute the letters in your poem with the letters from your cipher you produce another poem that also makes sense and is just as beautiful as the original. So that's effectively what I've done, I've written a poem through a substitution cypher encodes yet another poem, and these two poems are mutually correlated, they refer to each other and are embedded within each other. 
 
 <br>
-<p align="center"><img src="/figures/xenotext_alphabet.png" width="40%"></p>
+<p align="center"><img src="/figures/xenotext_alphabet.png" width="70%"></p>
 <p align="center"><i>The letter pairing in the Xenotext</i></p>
 <br>
 
@@ -165,7 +170,7 @@ I had to learn some computer programming to design a piece of software that woul
 
 <br>
 <p align="center"><i>Orpheus</i></p>
-<p align="center"><img src="/figures/orpheus.png" width="50%"></p>
+<p align="center"><img src="/figures/orpheus.png" width="25%"></p>
 <br>
 
 
@@ -173,11 +178,11 @@ Now the organism can actually read this poem, it understands this poem as a set 
 
 <br>
 <p align="center"><i>Eurydice</i></p>
-<p align="center"><img src="/figures/Eurydice.png" width="50%"></p>
+<p align="center"><img src="/figures/eurydice.png" width="25%"></p>
 <br>
 
 
-What's unusual about these two poems is simply that they are the only ones that can be, I think, generated from this constraint. They conform to a [style of poetry](https://en.wikipedia.org/wiki/Pastoral#Pastoral_poetry) from the 15th-16th century in which a herd boy addresses a nymphette, and the nymphette rejects the advances of the herd boy. A kind of pastoral tradition of dialogue between two lovers.[[^2]] Hence the nicknames [Orpheus and Eurydice](https://en.wikipedia.org/wiki/Orpheus_and_Eurydice). There's an infernal dimension to this work because they're enciphered into an organism capable of surviving in all types of hellish environments. And the two works seem to allude to each other. The first is a kind of masculine statements about the artistic creation of life, the second is a kind of woebegone feminine statement about the artistic de-creation of life. I think there's a bit of uncanniness in this discovery, it's not immediately obvious that this would be the outcome of that constraint. I didn't expect these poems to be the result of this particular exercise and yet out of the eight trillion worlds I explored these are the only poems that arise. In some sense that's what makes them interesting an fragile to me as works of art. That they're only poems that exist out of eight trillion possibilities. I've explored eight trillion different worlds and in only one world does poetry exists. There's only one world where you might find life. It says something about the metaphorical fragility of our own existence in the cosmos. That there are trillions of potentially habitable worlds and yet only one of them seems to bear life as we know it.
+What's unusual about these two poems is simply that they are the only ones that can be, I think, generated from this constraint. They conform to a [style of poetry](https://en.wikipedia.org/wiki/Pastoral#Pastoral_poetry) from the 15th-16th century in which a herd boy addresses a nymphette, and the nymphette rejects the advances of the herd boy. A kind of pastoral tradition of dialogue between two lovers.[[^3]] Hence the nicknames [Orpheus and Eurydice](https://en.wikipedia.org/wiki/Orpheus_and_Eurydice). There's an infernal dimension to this work because they're enciphered into an organism capable of surviving in all types of hellish environments. And the two works seem to allude to each other. The first is a kind of masculine statements about the artistic creation of life, the second is a kind of woebegone feminine statement about the artistic de-creation of life. I think there's a bit of uncanniness in this discovery, it's not immediately obvious that this would be the outcome of that constraint. I didn't expect these poems to be the result of this particular exercise and yet out of the eight trillion worlds I explored these are the only poems that arise. In some sense that's what makes them interesting an fragile to me as works of art. That they're only poems that exist out of eight trillion possibilities. I've explored eight trillion different worlds and in only one world does poetry exists. There's only one world where you might find life. It says something about the metaphorical fragility of our own existence in the cosmos. That there are trillions of potentially habitable worlds and yet only one of them seems to bear life as we know it.
 
 <i><b>AE:</b> It's always wonderful to discover these things. These happy coincidences that just jump out of the language. The uncanny is so important to constraint-based poetry and all experimental poetry.
 
@@ -201,6 +206,8 @@ Nevertheless I'm hoping that I can transcend some of these difficulties and hit 
 
 * * * 
 
-[^1]: Bök is, I believe, referring to himself, Darren Wershler (a fellow Canadian), and Kenneth Goldsmith. 
+[^1]: The mapping is: p:f, n:d, x:j, b:w, z:g, q:y, t:s, i:k, e:o, c:m, r:l, a:u, h:v.
 
-[^2]: See for example [The Passionate Shepherd to His Love](https://en.wikipedia.org/wiki/The_Passionate_Shepherd_to_His_Love) by Marlowe and Raleigh's response in [The Nymph's Reply to the Shepherd](https://en.wikipedia.org/wiki/The_Nymph%27s_Reply_to_the_Shepherd).
+[^2]: Bök is, I believe, referring to himself, Darren Wershler (a fellow Canadian), and Kenneth Goldsmith. 
+
+[^3]: See for example [The Passionate Shepherd to His Love](https://en.wikipedia.org/wiki/The_Passionate_Shepherd_to_His_Love) by Marlowe and Raleigh's response in [The Nymph's Reply to the Shepherd](https://en.wikipedia.org/wiki/The_Nymph%27s_Reply_to_the_Shepherd).
