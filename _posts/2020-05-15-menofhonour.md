@@ -7,11 +7,7 @@ status: publish
 mathjax: true
 ---
 
-### Book #3: Men of Honour by Adam Nicholson
-
-<br>
-<p align="center"><img src="/figures/.jpg" width="13%"></p>
-<br>
+<p align="center"><img src="/figures/men_of_honour.jpg" width="20%"></p>
 
 > A seaman should be understood to be quite different from all other classes of men, he does not spring up like a Mushroom, it requires many years to make him a seaman, with fatigue both of body and mind. (Henry Bayntum)
 
@@ -31,14 +27,11 @@ Nelson's personality is the dream of every biographer. He could be moody and dou
 
 > That twin inheritance, the Virgilian and the Homeric, are both in play at Trafalgar and both are fused with the contemporary passion for a burning apocalyptic fire. 
 
-Nicholson's style of writing about "nations" and "peoples" in history seems anachronistic in the era when historians are expected to be increasingly quantitative and objective. *Men of Honour* asks such Churchillian questions as: why was the British psychology so aggressive whilst the French and Spanish so placid and defeatist? Why did [Villeneuve](https://en.wikipedia.org/wiki/Pierre-Charles_Villeneuve) want to avoid an engagement when his navies had more men and cannon? Nicholson believes that the British were instilled with a sense of aggression because they believed in the righteousness of their cause. In 1805 there was nothing wrong with wanting glory, even if in reckless pursuit, in order to secure the necessary income, titles, and rewards that were the spoils of Napoleonic warfare. Not only are the British seen as superior in some sense, their Gallic counterparts are seen to suffering from both a surfeit and dearth of republicanism. The Spanish elites, while brave, are presented as decadent and backwards. The French admiralty are described as the traumatized remnants of the country's gentry.	
-
-> Navies reflect the societies from which they come
+Nicholson's style of writing about "nations" and "peoples" in history seems anachronistic in the era when historians are expected to be increasingly quantitative and objective. *Men of Honour* asks such Churchillian questions as: why was the British psychology so aggressive whilst the French and Spanish so placid and defeatist? Why did [Villeneuve](https://en.wikipedia.org/wiki/Pierre-Charles_Villeneuve) want to avoid an engagement when his navies had more men and cannon? Nicholson believes that the British were instilled with a sense of aggression because they believed in the righteousness of their cause. In 1805 there was nothing wrong with wanting glory, even if in reckless pursuit, in order to secure the necessary income, titles, and rewards that were the spoils of Napoleonic warfare. Not only are the British seen as superior in some sense, their Gallic counterparts are seen to suffering from both a surfeit and dearth of republicanism. The Spanish elites, while brave, are presented as decadent and backwards. The French admiralty are described as the traumatized remnants of the country's gentry: *"Navies reflect the societies from which they come"*.
 
 <br>
 <p align="center"><img src="/figures/nelson.jpg" width="20%"></p>
 <p align="center"><i> Vice-Admiral Horatio Nelson </i></p>
-<br>
 
 > Something must be left to chance, nothing is sure in a Sea Fight beyond all others. Shot will carry away the mast and yards of friends as well as foes ... Captains are to look to their particular Line as their rallying point. But, in case Signals can neither be seen or perfectly understood, no Captain can do very wrong if he places his ship alongside that of an Enemy. 
 >
@@ -77,7 +70,6 @@ Nelson's heroic death at Trafalgar was a foundational element in the Victorian c
 > The shadow, or perhaps the light of Trafalgar, with its halo of courage, beauty and honour, its powerful and Elysian idea of the Happy Warrior, lasted only until the killing fields of industrial war ... It was a brutal amalgam and it remains an inheritance with a troubling moral ambiguity at its heart. 
 
 
-<br>
 <p align="center"><img src="/figures/trafalgar_square.jpg" width="25%"></p>
 <p align="center"><i> Nelson's permanent monument in Trafalgar Square </i></p>
 <br>
