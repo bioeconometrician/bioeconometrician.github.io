@@ -7,7 +7,8 @@ status: publish
 mathjax: true
 ---
 
-<p align="center"><img src="/figures/men_of_honour.jpg" width="20%"></p>
+<br>
+<p align="center"><img src="/figures/men_of_honour.jpg" width="15%"></p>
 
 > A seaman should be understood to be quite different from all other classes of men, he does not spring up like a Mushroom, it requires many years to make him a seaman, with fatigue both of body and mind. (Henry Bayntum)
 
