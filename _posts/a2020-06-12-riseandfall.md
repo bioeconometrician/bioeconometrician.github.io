@@ -7,6 +7,11 @@ status: publish
 mathjax: true
 ---
 
+<br>
+<p align="center"><img src="/figures/rise_and_fall.jpg" width="13%"></p>
+<br>
+
+
 The *Rise and Fall of Nations* by Ruchir Sharma is a good book but is has the run title. Unlike other grandly titled books (Capital, Why Nations Fail, etc) Sharma is writing about the factors that influence the 5-10 year trajectory. It's really about business cycles and not structural factors. 
 
 * Introduction: there is an impermanence to growth. Sharma takes the long view. Even successful economies of the past (early industrializing Germany and Japan) had long periods of stagnation. 
