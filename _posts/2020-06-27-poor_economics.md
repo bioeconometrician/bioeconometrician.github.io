@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <br>
-<p align="center"><img src="/figures/poor_economics.jpg" width="25%"></p>
+<p align="center"><img src="/figures/poor_economics.jpg" width="17%"></p>
 <br>
 
 ## Background
