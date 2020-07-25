@@ -7,15 +7,7 @@ status: publish
 mathjax: true
 ---
 
-### Book #1: Bury the Chains by Adam Hochschild
-
-<br>
-<p align="center"><img src="/figures/bury_the_chains.jpg" width="13%"></p>
-<br>
-
-
-
-### Book #2: The Name of the Rose by Umberto Eco
+### Book #1: The Name of the Rose by Umberto Eco
 
 <br>
 <p align="center"><img src="/figures/name_of_the_rose.jpg" width="13%"></p>
@@ -32,7 +24,7 @@ The novel has three sorts of scenes. The first are those of any detective proced
 While it is hard to describe *The Name of the Rose* as an easy read, it was nevertheless difficult to put down. My paperback ran over 600 pages but I finished it within the same time I usually read 300 page books. It is surprising that a book with hundreds of untranslated Latin expressions and references to long-dead popes and obscure heretical groups became a commercial success. While many parts of the book escaped my comprehension (and no doubt others too), by recreating such a intricate medieval world, Eco allows the reader to feel at home even though the sensory stimulus is at times bewildering. This book was one of the best I have read this year, and it receives my hearty endorsement. 
 
 
-### Book #3: Africa Since Independence by Paul Nugent
+### Book #2: Africa Since Independence by Paul Nugent
 
 <br>
 <p align="center"><img src="/figures/africa_since_independence.jpg" width="13%"></p>
@@ -53,6 +45,25 @@ The chapter on comparative economic approaches was one of the most interesting. 
 Ghana's "big push" amounted to borrowing billions of dollars, well above its GDP, in order to finance massive infrastructure projects and [import substitution industrialization](https://www.brookings.edu/wp-content/uploads/2016/07/L2C_WP18_Ackah-Adjasi-and-Turkson-1.pdf). The results were disastrous. Ghanian industry had no competitive basis beyond government support. The huge investment made into the [Akosombo Dam](https://en.wikipedia.org/wiki/Akosombo_Dam) was to fuel an industrial renaissance that never occured. In 1966 Ghana's per capita income was lower than it was at the time of independence (1957). 
 
 In retrospect its clear that the development strategies were not only going to lead to any development. A necessary condition for increasing agricultural output in an underdeveloped economy is have property rights, a stable macroeconomic regime, and economies of scale (i.e. consolidation). The economic dreams of a dictator are bound to fail because there is no course-correction mechanism. After the CCP and TANU won elections in Ghana and Tanzania, respectively, both countries abolished multiparty democracy for a single-party state (the CCP and TANU). If the peasants could have voted, they would have tossed out the party backing the *ujaama* fantasy. Most Ghanians would have preferred better education, healthcare, roads, and electrification, not some grand Soviet industrialization strategy.
+
+
+### Book #3: Africans by John Iliffe
+
+<br>
+<p align="center"><img src="/figures/africans.jpg" width="40%"></p>
+<br>
+
+*Africans: The History of a Continent*
+
+conflict within generations rather than within hierarchies in West Africa
+
+focus on fertility and population growth
+
+Islam without literacy, so people basically didn't know what was in the Koran. Reminds me of Baudolino about the group that last their bibles
+
+Cool that ironworkers associated with magic!
+
+"competitive" government in pre-historic Africa (note quote from Stanley). Similar to charter city ideas. Competition between states helps to limit autocracy?
 
 
 
