@@ -24,30 +24,7 @@ The novel has three sorts of scenes. The first are those of any detective proced
 While it is hard to describe *The Name of the Rose* as an easy read, it was nevertheless difficult to put down. My paperback ran over 600 pages but I finished it within the same time I usually read 300 page books. It is surprising that a book with hundreds of untranslated Latin expressions and references to long-dead popes and obscure heretical groups became a commercial success. While many parts of the book escaped my comprehension (and no doubt others too), by recreating such a intricate medieval world, Eco allows the reader to feel at home even though the sensory stimulus is at times bewildering. This book was one of the best I have read this year, and it receives my hearty endorsement. 
 
 
-### Book #2: Africa Since Independence by Paul Nugent
-
-<br>
-<p align="center"><img src="/figures/africa_since_independence.jpg" width="13%"></p>
-<br>
-
-*Africa Since Independence: A Comparative History*. 
-
-Strong emphasis on *comparative*. While Africa is often spoken about, as though it were a country, Nugent makes clear that the trajectories and starting points for African nations were remarkably different. Consider geography. Some countries were tiny (Gambia and Swaziland) whilst others were enormous (Sudan and the Congo: equvilent to Western Europe?). However territory size was not always correlated with population (Sudan had very few people, Nigeria had many). While urbanization was low there were significant variations (see Table 2 Ch 2). As were the nature of the resources available to countries. The institutional differences between French and British Africa were significant. But even within former British colonies there were large political differences. For example those countries which had large white settler minorities (Kenya, Nyasaland, etc), there was much less emphasis placed on getting to universal suffrage. 
-
-One of the main differences between Anglophone and Francophone Africa was how enduring the cultural and economic ties would be. The French were much better, naturally.
-
-Stratified economic development depending on development (North and South Nigeria). Hutus and Tutsis, Northern and Southern Uganda (were Makere is).  
-
-The chapter on comparative economic approaches was one of the most interesting. Nugent contrasts Kenya and Tanzania, the latter pursuing an indigenous policy of African Socialism or *ujamaa*. Neyere's vision was to have happy peasants working in collective *ujamaa* villages. After rural villagers, naturally, failed to show up, the government resorted to more coercive measures. In order to avoid government sanction, peasants would put in a token amount of work on collective farms and then spend the rest of their time. The result was a collapse in agricultural output so that Tanzania went from being a net exporter to a net importer of food. While Nkrumah was also interested in charting a uniquely African-way of socialist development, he considered industrialization as the key for Ghana to escape poverty.
-
-> What other countries have taken three hundred years or more to achieve a more dependent territory must to accomplish in a generation if it is to survive. Unless it is, as it were, jet-propelled, it will lag behind and thus risk everything for which it has fought for. **Capitalism is too complicated a system for a newly independent state. Hence the need for a socialistic society**. 
-
-Ghana's "big push" amounted to borrowing billions of dollars, well above its GDP, in order to finance massive infrastructure projects and [import substitution industrialization](https://www.brookings.edu/wp-content/uploads/2016/07/L2C_WP18_Ackah-Adjasi-and-Turkson-1.pdf). The results were disastrous. Ghanian industry had no competitive basis beyond government support. The huge investment made into the [Akosombo Dam](https://en.wikipedia.org/wiki/Akosombo_Dam) was to fuel an industrial renaissance that never occured. In 1966 Ghana's per capita income was lower than it was at the time of independence (1957). 
-
-In retrospect its clear that the development strategies were not only going to lead to any development. A necessary condition for increasing agricultural output in an underdeveloped economy is have property rights, a stable macroeconomic regime, and economies of scale (i.e. consolidation). The economic dreams of a dictator are bound to fail because there is no course-correction mechanism. After the CCP and TANU won elections in Ghana and Tanzania, respectively, both countries abolished multiparty democracy for a single-party state (the CCP and TANU). If the peasants could have voted, they would have tossed out the party backing the *ujaama* fantasy. Most Ghanians would have preferred better education, healthcare, roads, and electrification, not some grand Soviet industrialization strategy.
-
-
-### Book #3: Africans by John Iliffe
+### Book #2: Africans by John Iliffe
 
 <br>
 <p align="center"><img src="/figures/africans.jpg" width="40%"></p>
@@ -65,6 +42,7 @@ Cool that ironworkers associated with magic!
 
 "competitive" government in pre-historic Africa (note quote from Stanley). Similar to charter city ideas. Competition between states helps to limit autocracy?
 
+Kano has 64 blacksmiths in 1926 but only 37 in 1971. United Africa Company had 50% of west african trade. National Bank of Nigeria was first indigenous bank. 
 
 
 
