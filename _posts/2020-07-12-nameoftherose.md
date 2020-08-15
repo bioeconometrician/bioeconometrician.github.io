@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <br>
-<p align="center"><img src="/figures/name_of_the_rose.jpg" width="13%"></p>
+<p align="center"><img src="/figures/name_of_the_rose.jpg" width="15%"></p>
 <br>
 
 I went into reading *The Name of the Rose* with high expectations both because I had enjoyed one of Eco's other works (*Baudalino*) and because the novel is considered one of the author's best. It did not disappoint. Eco's writing style is similar to two of my other favourite authors: Italo Calvino and Jorge Luis Borges. These authors are all thoroughly postmodern and draw heavily on intertextuality (references to other works of literature). *The Name of the Rose* is set in 14th century in Italy at the peak of the High Middle Ages. The historic background is one of total corruption in European society with every strata of the religious hierarchy focused on personal gain rather than religious devotion. The period marked a peak in the tension between the Catholic Church and the Holy Roman Empire, with ongoing disagreements about the separation between secular and religious affairs being adjudicated by force, if necessary. Due to a complicated set of political circumstances, the papacy was actually located in [Avignon](https://en.wikipedia.org/wiki/Avignon_Papacy) in Southern France throughout most of the 1300s. 
