@@ -7,16 +7,7 @@ status: publish
 mathjax: true
 ---
 
-### Book #1: How to House the Homeless by Ellen & O'Flaherty
-
-<br>
-<p align="center"><img src="/figures/howtohouse.jpg" width="13%"></p>
-<br>
-
-
-<br>
-
-### Book #3: Half of a Yellow Sun by Chimamanda Ngozi Adiche
+### Book #1: Half of a Yellow Sun by Chimamanda Ngozi Adiche
 
 <br>
 <p align="center"><img src="/figures/yellowsun.jpg" width="13%"></p>
