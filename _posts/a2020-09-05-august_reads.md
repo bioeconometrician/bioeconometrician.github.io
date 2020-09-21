@@ -26,3 +26,8 @@ The Biafran people are seen as sympathetic. There are glimpses though that the e
 
 <br>
 
+### Book #2: My Brilliant Friend by Elena Ferante
+
+<br>
+<p align="center"><img src="/figures/.jpg" width="13%"></p>
+<br>
