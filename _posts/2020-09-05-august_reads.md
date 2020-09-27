@@ -41,6 +41,6 @@ The popularity of a book is likely as much of a surprise to its author as it is 
 
 * * *
 
-[^1]: My favourite line from the book is when Kainene dismisses Odenigbo's socialist vision for Biafra. *Kainene snorted. "Socialism would never work for the Igbo." She held the brush suspended in midair. "Ogbenyealu is a common name for girls and you know what it means? 'Not to Be Married to a Poor Man.' To stamp than on a child at birth is capitalism at its best."* 
+[^1]: One of my favourite lines from the book is when Kainene dismisses Odenigbo's socialist vision for Biafra. *Kainene snorted. "Socialism would never work for the Igbo." She held the brush suspended in midair. "Ogbenyealu is a common name for girls and you know what it means? 'Not to Be Married to a Poor Man.' To stamp that on a child at birth is capitalism at its best."* 
 
 [^2]: In the same way that *Half of a Yellow Sun* clearly captured the sociological essence of Nigeria in the 1960s.  
