@@ -11,6 +11,12 @@ mathjax: true
 <p align="center"><img src="/figures/the_first_cell.jpg" width="13%"></p>
 <br>
 
+<br>
+
+*Note: I have a technical [accompanying post](http://www.erikdrysdale.com/cancer_canstats/) on my other website which analyses trends in Canadian cancer statistics.*
+
+<br>
+
 The history of medicine is intimately linked to the study of cancer. Theodor Boveri's finding that chromosome damage can cause uncontrolled cell proliferation and Peyton Rous' discovery of a sarcoma virus were critical breakthroughs in early genetics research. After DNA was established as the chemical basis of heredity, remarkable advancements were made in the field of cell biology. The discovery of [oncogenes](https://en.wikipedia.org/wiki/Oncogene) and [tumour suppressor genes](https://en.wikipedia.org/wiki/Tumor_suppressor) in the 1970s revealed that cancer is ultimately a genetic disease. Unfortunately these intellectual achievements have not led to effective treatments for most cancers. 
 
 No one is more disappointed in the translational failure of cancer research than [Dr. Azra Raza](https://cancer.columbia.edu/azra-raza-md), an oncologist and researcher at Columbia, who has written a scathing denunciation of her field in *The First Cell*. Raza treats patients with the preleukemic condition myelodysplastic syndromes ([MDS](https://en.wikipedia.org/wiki/Myelodysplastic_syndrome)), as well as its subsequent malignancy acute myeloid leukemia ([AML](https://en.wikipedia.org/wiki/Acute_myeloid_leukemia)), which develops in around one-third of MDS patients.  Being a colleague of [Siddhartha Mukherjee](https://cancer.columbia.edu/siddhartha-mukherjee-md-dphil), who wrote *The Emperor of All Maladies*, Azra is following a tough act for writing a cancer book. Yet the field needs more sceptical voices; and Raza certainly provides this. 
