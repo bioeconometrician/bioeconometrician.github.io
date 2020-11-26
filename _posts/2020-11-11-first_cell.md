@@ -11,8 +11,6 @@ mathjax: true
 <p align="center"><img src="/figures/the_first_cell.jpg" width="13%"></p>
 <br>
 
-<br>
-
 *Note: I have a technical [accompanying post](http://www.erikdrysdale.com/cancer_canstats/) on my other website which analyses trends in Canadian cancer statistics.*
 
 <br>
