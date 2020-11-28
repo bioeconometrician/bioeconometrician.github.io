@@ -31,3 +31,21 @@ The articles seem to miss a lot of the nuances about the division of labour and 
 <br>
 
 
+### Book #3: The Girl with the Pearl Earring by Tracy Chevalier
+
+<br>
+<p align="center"><img src="/figures/girl_with_the_pearl_earring.jpg" width="13%"></p>
+<br>
+
+### Book #4: The Fisherman by Chigozi Obioma 
+
+<br>
+<p align="center"><img src="/figures/.jpg" width="13%"></p>
+<br>
+
+
+### Book #4: Epidemic by Lapham's Quarterly
+
+<br>
+<p align="center"><img src="/figures/.jpg" width="13%"></p>
+<br>
