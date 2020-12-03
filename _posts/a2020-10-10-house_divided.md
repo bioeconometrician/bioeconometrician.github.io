@@ -15,11 +15,11 @@ mathjax: true
 >
 > Adam Smith
 
-Toronto is Canada's cultural and economic capitol. The city contains 16% of the country's population, 20% of the its GDP, and 25% of its net job creation. For a young aspiring professional, like myself, moving to Toronto was the obvious career choice. Housing prices being at a higher level in Toronto relative to other Canadian municipalities makes sense given the city's rich amenities and labour market opportunities. But Toronto isn't just more expensive, it's *growing* more expensive. For example, the relative price level between Toronto and Calgary is roughly 60% higher today than it was 20 years ago. How much of this phenomenon is due to demand issues versus problems in supply? I would argue that it is mainly [supply](https://bioeconometrician.github.io/supplymatters). Supply-side YIMBY's will gladly welcome the publication of *House Divided: How the Missing Middle Will Solve Toronto's Affordability Crisis*. The book contains more than two-dozen short essays about Toronto's dysfunctional housing market, with a specific emphasis on the "missing middle" which refers to duplexes, triplexes, and walk-ups (aka "gentle density").
+Toronto is Canada's cultural and economic capitol. The city contains 16% of the country's population, 20% of the its GDP, and 25% of its net job creation. For a young aspiring professional, like myself, moving to Toronto was the obvious career choice. Housing prices being at a higher level in Toronto relative to other Canadian municipalities makes sense given the city's rich amenities and labour market opportunities. But Toronto isn't just more expensive, it's *growing* more expensive. Residential property prices have more than tripled in a 20 year period. As a consequence, the relative price level difference between Toronto and Calgary has grown by 60% during this period. How much of this phenomenon is due to demand issues versus problems in [supply](https://bioeconometrician.github.io/supplymatters)? The publication of *House Divided: How the Missing Middle Will Solve Toronto's Affordability Crisis* will be gladly welcomed by supply-side YIMBY's. The book contains more than two-dozen short essays about Toronto's dysfunctional housing market, with a specific emphasis on the lack of "missing middle" buildings (e.g. gentle density in the form of duplexes, triplexes, and walk-ups).
 
 > [D]uplexes and triplexes, the least intrusive of all multi-unit housing types, are not permitted on two-thirds of the entire land mass of Toronto that is designated for residential dwellings. 
 
-The level of Toronto's property prices and its composition of buildings have been determined as much by market forces as they have by policy decisions. To be clear, Toronto being is unaffordable is a political decision and not a natural phenomenon like hurricanes. As the book points out, the dysfunction of Toronto's residential real estate market can be summarized by two facts: the city has millions of empty bedrooms but a vacancy rate of less than 1%. Most Torontonians have a sense that the city is a boom town in construction. But this is illusory both in the sense that it is [not true](https://github.com/erikdrysdale/oped/blob/master/gg_starts.png) statistically, but also that high-rise construction occurs in only a few neighbourhoods. Most of Toronto's neighbourhoods remain unchanged after decades. The cause of Toronto's strange density distribution is regulation.
+The level of Toronto's property prices and its composition of buildings have been determined as much by market forces as they have by policy decisions. One fact from the book perfectly captures Toronto's dysfunction residential real estate market: the city has millions of empty bedrooms but a vacancy rate of less than 1%. Most Torontonians have a sense that the city is a boom town in construction. This intuition is [erroneous](https://github.com/erikdrysdale/oped/blob/master/gg_starts.png), as fewer housing units were built from 2010-2019 than 2000-09 (on a population-adjusted level). Even though Toronto continuous to have the most [cranes](https://torontostoreys.com/toronto-q3-cranes-index/) in its skyline, most of her neighbourhoods have remained static after decades. The cause of Toronto's strange density distribution is regulation.
 
 ### (1) The road the ruin
 
@@ -34,12 +34,12 @@ The origin of this dysfunction is the Official Plan (OP). Several seemingly laud
 What does dysfunctional market look like on the ground for ordinary people? Consider Diaz, who earns $32K a year and works at the Metro grocery store. She spends 75% of her post-tax income on housing and, though having scraped together $25K for a downpayment, has been unable to find any bank who would lend her money to buy a house. There is the real estate investor who buys a two-story home in Scarborough and files a minor variance with the Committee of Adjustment to allow an additional suite, which had already been built previously but was otherwise illegal. Despite support from the neighbours, the Committee rules against the addition for this house which is otherwise blocks away from a major road with transit and amenities. Then there is the Dymond family that bought a small bungalow in South Etibocoke and are looking to knock down the building and replace it with a three-storey dwelling so that their in-laws can move in after they downsize. A neighbour complains to the Committee of Adjustment and a mediator forces the Dymonds to scale back some their plans. The final cost to the Dymond's of this pointless red tape: $30K per unit development costs and $20K for the park improvement levy, amounting to around a quarter of their purchase price. 
 
 
-### (2) The Yellow Belt
+### (2) All roads lead to the Yellowbelt
 
 Toronto's affordability problems have nothing to do with the [Greenbelt](https://en.wikipedia.org/wiki/Greenbelt_(Golden_Horseshoe)). Instead, Toronto is constricted from within by the [Yellowbelt](http://www.mapto.ca/maps/2017/3/4/the-yellow-belt), a term referring to the area of Toronto's residential land zoned as "Neighbourhoods" where only low-density houses can be constructed. The term was coined by [Gil Meslin](https://twitter.com/g_meslin/status/787043620406890496) due to its striking visual imagery.
 
 <br>
-<p align="center"><img src="/figures/sammon_ave.png" width="13%"></p>
+<p align="center"><img src="/figures/yellowbelt.jpg" width="50%"></p>
 <p align="center">You can build anywhere that isn't yellow</p>
 <br>
 
@@ -60,7 +60,7 @@ Kramer's essay also made a fascinating point about renovation expenditures. When
 The more you examine the numbers, the worse the picture becomes. The city of North York has a population of 656K but contains only 1,400 bachelor units in its entire housing stock as of [2019](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=2.1.28.3&GeographyId=2270&GeographyTypeId=3&DisplayAs=Table&GeograghyName=Toronto#). A York University student with limited cash would be competing dozens, at best a couple hundred, apartment units the entire city. The entire City of Toronto encompasses 640 square kilometres of land, 50% of which is zoned residential. However, residential land is broken down into six zoning categories as the table shows below. 
 
 <br>
-<p align="center"><img src="/figures/zoning_designation.png" width="13%"></p>
+<p align="center"><img src="/figures/zoning_designation.png" width="90%"></p>
 <br>
 
 A full 200 square kilometres of Toronto's residential land is zoned "RD" (or residential detached). Areas like Scarborough, East York, North York, and Etobicoke are all dominated by RD. Yet even the other designations are misleading. For example an area zoned RM may allow for fourplexes, but if there are no existing dense structures, then the "existing character" guidelines in the OP will often prevent even the simplest densification from occurring. The costs of the Yellowbelt is green. The suburban areas that prevent development from occurring have [double](https://onlinelibrary.wiley.com/doi/abs/10.1162/jie.2007.1220) the GHG emissions as do the neighbourhoods with pre-WWII building. 
@@ -108,7 +108,7 @@ There is a debate amongst economists about whether the rate of productivity grow
 Daniel Rotsztain has a lovely little chapter, *The Mid-Rises of Metropolitan Toronto* where he includes sketches of mid-rise buildings that are unique for their environment. There is 135 Sammon Avenue, three-story building found on a street where the other houses are are single-family detached showing how easily such structures could integrated themselves in the Yellow Belt. 
 
 <br>
-<p align="center"><img src="/figures/sammon_ave.png" width="13%"></p>
+<p align="center"><img src="/figures/sammon_ave.png" width="59%"></p>
 <p align="center">A sketch of gentle density by Daniel Rotsztain</p>
 <br>
 
