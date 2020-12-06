@@ -1,5 +1,5 @@
 ---
-title: 'House Divided - How the Missing Middle Can Solve Toronto's Affordability Crisis (Book Review)'
+title: 'House Divided (Book Review)'
 output: html_document
 fontsize: 12pt
 published: true
