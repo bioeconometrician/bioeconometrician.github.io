@@ -45,11 +45,22 @@ The articles seem to miss a lot of the nuances about the division of labour and 
 
 ### Book #5: The Radetzky March by Joseph Roth
 
+<br>
+<p align="center"><img src="/figures/radetzky_march.jpg" width="13%"></p>
+<br>
+
+
 ### Book #6: The Heart of the Matter by Graham Greene
+
+<br>
+<p align="center"><img src="/figures/heart_of_the_matter.jpg" width="13%"></p>
+<br>
 
 ### Book #7: Heart of Darkness & Other Stories by Joseph Conrad 
 
-
+<br>
+<p align="center"><img src="/figures/heart_of_darkness.jpg" width="13%"></p>
+<br>
 
 
 
