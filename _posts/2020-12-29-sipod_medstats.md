@@ -11,7 +11,7 @@ mathjax: true
 <iframe title="Statistics in Medicine" src="https://www.podbean.com/media/player/6msu9-c8cb889-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" style="border: none;" scrolling="no" data-name="pb-iframe-player" width="100%" height="122"></iframe>
 </p>
 
-In episode 8 of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) Jaryd and I are joined by my good friend Eric Mackay, a Senior Statistician at [Cytel](https://www.cytel.com/). Eric has an academic background in econometrics and statistics, as well as extensive professional expertise in applied biostatistical analysis. We cover a variety of topics including why Eric left the economics profession, the difficulty of translating statistical concepts into practical terms, and whether international travel is overrated. Note: this episode contains the use of technical jargon which some listeners my find boring.
+In episode 8 of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) Jaryd and I are joined by my good friend Eric Mackay, a Senior Statistician at [Cytel](https://www.cytel.com/). Eric has an academic background in econometrics and statistics, as well as extensive professional expertise in applied biostatistical analysis. We cover a variety of topics including why Eric left the economics profession, the difficulty of translating statistical concepts into practical terms, and whether international travel is overrated. Note: this episode contains the use of technical jargon which some listeners may find boring.
 
 ### Show notes
 
