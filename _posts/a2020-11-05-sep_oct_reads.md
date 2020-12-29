@@ -40,12 +40,16 @@ The articles seem to miss a lot of the nuances about the division of labour and 
 ### Book #4: The Fisherman by Chigozi Obioma 
 
 <br>
-<p align="center"><img src="/figures/.jpg" width="13%"></p>
+<p align="center"><img src="/figures/the_fishermen.jpg" width="13%"></p>
 <br>
 
+### Book #5: The Radetzky March by Joseph Roth
 
-### Book #4: Epidemic by Lapham's Quarterly
+### Book #6: The Heart of the Matter by Graham Greene
 
-<br>
-<p align="center"><img src="/figures/.jpg" width="13%"></p>
-<br>
+### Book #7: Heart of Darkness & Other Stories by Joseph Conrad 
+
+
+
+
+
