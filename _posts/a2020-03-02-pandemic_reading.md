@@ -31,3 +31,11 @@ mathjax: true
 <br>
 
 <br>
+
+### Book #4: In Spite of the Gods by Edward Luce
+
+<br>
+<p align="center"><img src="/figures/.jpg" width="13%"></p>
+<br>
+
+<br>
