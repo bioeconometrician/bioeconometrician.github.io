@@ -95,7 +95,7 @@ Last names are a fairly modern invention, created by the nation state and have a
 
 *Seeing Like a State*. *Paris as Revolution*. *Imaginary Cartographies: Possession and Identity in Late Medieval Marseille*. 
 
-### Book #5: The God of SMall Things by Arundhati Roy
+### Book #5: The God of Small Things by Arundhati Roy
 
 <br>
 <p align="center"><img src="/figures/.jpg" width="13%"></p>
