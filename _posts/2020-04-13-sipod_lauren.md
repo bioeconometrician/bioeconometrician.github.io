@@ -7,8 +7,9 @@ status: publish
 mathjax: true
 ---
 
+<br>
 <p align="center">
-<iframe title="Machine Learning for Pediatric Medicine" src="https://www.podbean.com/media/player/ishwz-895bf3e-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" style="border: none;" scrolling="no" data-name="pb-iframe-player" width="100%" height="122"></iframe>
+	<iframe src="https://podcasters.spotify.com/pod/show/statisticallyinsig/embed/episodes/Machine-Learning-for-Pediatric-Medicine-e1to6l6/a-a971veb" height="150px" width="400px" frameborder="0" scrolling="no"></iframe>
 </p>
 
 

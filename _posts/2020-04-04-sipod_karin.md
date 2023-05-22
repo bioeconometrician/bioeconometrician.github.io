@@ -7,8 +7,9 @@ status: publish
 mathjax: true
 ---
 
+<br>
 <p align="center">
-<iframe title="A Discussion about Cancer Research" src="https://www.podbean.com/media/player/ncq6w-884921e-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" style="border: none;" scrolling="no" data-name="pb-iframe-player" width="100%" height="122"></iframe>
+	<iframe src="https://podcasters.spotify.com/pod/show/statisticallyinsig/embed/episodes/A-Discussion-about-Cancer-Research-e1to6l4/a-a971veb" height="150px" width="400px" frameborder="0" scrolling="no"></iframe>
 </p>
 
 

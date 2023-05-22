@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 <p align="center">
-<iframe title="Statistical Smorgasbord" src="https://www.podbean.com/media/player/v4mim-796fddc-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" style="border: none;" scrolling="no" data-name="pb-iframe-player" width="100%" height="122"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/statisticallyinsig/embed/episodes/Statistical-Smorgasbord-e1to6le/a-a971vf8" height="150px" width="400px" frameborder="0" scrolling="no"></iframe>
 </p>
 
 In episode 2 of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) Jaryd and I discuss a variety of statistical topics including methods to adjust for [multiple hypothesis testing](https://en.wikipedia.org/wiki/Multiple_comparisons_problem), the [winner's curse](https://en.wikipedia.org/wiki/Winner%27s_curse), the [reproducability crisis](https://en.wikipedia.org/wiki/Replication_crisis), the [garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf), and much more!. 
