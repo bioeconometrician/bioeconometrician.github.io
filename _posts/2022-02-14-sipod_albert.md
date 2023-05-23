@@ -14,4 +14,4 @@ mathjax: true
 
 
 
-In the 14th episode of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) Jaryd and I are joined by Albert Tam who works as a Data & Risk Management Professional. In this interesting conversation, Albert explains the principles that underlie the risk management framework and how this is used in practice. We also discuss the challenges associated with managing data and why the Pan American Games are underrated.
+In the 14th episode of the [Statistically Insignificant podcast](https://podcasters.spotify.com/pod/show/statisticallyinsig/) Jaryd and I are joined by Albert Tam who works as a Data & Risk Management Professional. In this interesting conversation, Albert explains the principles that underlie the risk management framework and how this is used in practice. We also discuss the challenges associated with managing data and why the Pan American Games are underrated.

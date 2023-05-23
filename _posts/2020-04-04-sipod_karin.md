@@ -13,7 +13,7 @@ mathjax: true
 </p>
 
 
-In episode 4 of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) I am joined by Karina Isaev who works as a computational biologist at the [Princess Margaret Cancer Centre](http://kridel-lab.ca/Team/). Karina provides an excellent overview of her research topics and their relevance to cancer biology.
+In episode 4 of the [Statistically Insignificant podcast](https://podcasters.spotify.com/pod/show/statisticallyinsig/) I am joined by Karina Isaev who works as a computational biologist at the [Princess Margaret Cancer Centre](http://kridel-lab.ca/Team/). Karina provides an excellent overview of her research topics and their relevance to cancer biology.
 
 ### Show notes
 

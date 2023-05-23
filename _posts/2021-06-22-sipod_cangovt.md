@@ -13,4 +13,4 @@ mathjax: true
 </p>
 
 
-In the 10th episode [Statistically Insignificant](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) podcast, Jaryd and I are joined by Megan DeVries - a Policy Analyst with Natural Resources Canada. We talk to Megan about her experiencing working in a political capacity as well as the civil service. Megan also provides us with some fascinating insights into the future of Canadian Christianity and we get to discuss some Canadiana and BC trivia.
+In the 10th episode [Statistically Insignificant podcast](https://podcasters.spotify.com/pod/show/statisticallyinsig/), Jaryd and I are joined by Megan DeVries - a Policy Analyst with Natural Resources Canada. We talk to Megan about her experiencing working in a political capacity as well as the civil service. Megan also provides us with some fascinating insights into the future of Canadian Christianity and we get to discuss some Canadiana and BC trivia.

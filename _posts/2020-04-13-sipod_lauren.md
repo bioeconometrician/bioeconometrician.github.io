@@ -13,7 +13,7 @@ mathjax: true
 </p>
 
 
-In episode 5 of the [Statistically Insignificant podcast](https://statisticallyinsignificant.sounder.fm/show/statistically-insignificant) Jaryd and I are joined by Lauren Erdman who is a PhD student with the [Goldenberg Lab](http://goldenberglab.ca/people.html#openModalLauren) at SickKids hospital. Lauren provides an overview of how machine learning is helping to assist physicians in pediatric medicine. We cover a range of other topics including COVID-19 and the value of the economics discipline. 
+In episode 5 of the [Statistically Insignificant podcast](https://podcasters.spotify.com/pod/show/statisticallyinsig/) Jaryd and I are joined by Lauren Erdman who is a PhD student with the [Goldenberg Lab](http://goldenberglab.ca/people.html#openModalLauren) at SickKids hospital. Lauren provides an overview of how machine learning is helping to assist physicians in pediatric medicine. We cover a range of other topics including COVID-19 and the value of the economics discipline. 
 
 ### Show notes
 
