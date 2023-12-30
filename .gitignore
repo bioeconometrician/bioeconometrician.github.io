@@ -10,3 +10,5 @@ Gemfile.lock
 node_modules
 package.json
 _rmd/extra*
+.ruby-version
+*Gemfile.lock.backup*
