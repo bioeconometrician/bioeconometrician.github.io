@@ -1,0 +1,47 @@
+---
+title: 'Northern Armageddon by D. Peter MacLeod (Book Review)'
+output: html_document
+fontsize: 12pt
+published: true
+status: publish
+mathjax: true
+---
+
+<br>
+<p align="center"><img src="/figures/armageddon.jpg" width="17%"></p>
+<br>
+
+Canadian history is boring and peaceful. Or so the stereotype goes. *Northern Armageddon* puts paid to this idea. Written by D. Peter MacLeod, the Director of Research at the [Canadian War Museum](https://www.warmuseum.ca/), the book tells how modern Canada was born of military conflict stemming from great power rivalry. The boundary between British and French possessions in North America was a fluid one in the early 18th century. What started as an insignificant skirmish between American militiamen and French solders on the Ohio River in 1754, turned into the spark that would ignite the [Seven Years' War](https://en.wikipedia.org/wiki/Seven_Years%27_War).[[^1]] The British and French empires' geographical scope and size ensured that a war between the two nations would result in a multi-theatre conflict. By the end of the war, things had largely gone the way of the British, and her empire was expanded by hundreds of thousands of kilometres, from the territory of New France to large parts of [India](https://en.wikipedia.org/wiki/Battle_of_Plassey). 
+
+The early battles between Britain's forces in North America and those of New France did not go the way of the English however. On the border between the two colonies, in what would be Upstate New York today, General [Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) led the French forces to impressive victories at [Fort Oswego](https://en.wikipedia.org/wiki/Battle_of_Fort_Oswego) (1756), [Fort William Henry](https://en.wikipedia.org/wiki/Siege_of_Fort_William_Henry) (1757), and [Carillon](https://en.wikipedia.org/wiki/Battle_of_Carillon) (1758). At the same time, Major General Amherst was leading a naval expedition to capture [Louisbourg](https://en.wikipedia.org/wiki/Siege_of_Louisbourg_(1758)) to ensure that French would be unable to access the Gulf of Saint Lawrence.[[^2]] After the fall of Louisbourg, major general [James Wolfe](https://en.wikipedia.org/wiki/James_Wolfe) was put in charge of attacking and capturing the [Québec](https://en.wikipedia.org/wiki/Quebec_City), which was the economic and cultural heart of New France.
+
+But how were Wolfe and his nine-thousand British Army soldiers to actually get to Québec? The Royal Navy gave the task of troop transportation and naval bombardment to the highly competent [Charles Saunders](https://en.wikipedia.org/wiki/Charles_Saunders_(Royal_Navy_officer)). The naval commitment put up by the British for this task was not trivial: forty-nine warships, thirteen-thousand sailors, two-thousand marines, as well as one-hundred transport ships manned by another four-thousand sailors. This operation accounted for a full quarter of the Royal Navy's fleet at the time. Most of Wolfe's troops were, interestingly, Americans. The remainder of which being Irish or English (each making up a quarter), Scottish (a sixth), or mercenaries from Switzerland and Germany (a small share).[[^3]]
+
+Devoid of any naval opposition, the Royal Navy's fleet was able to sail up the Saint Lawrence river largely unmolested. French [fire ships](https://en.wikipedia.org/wiki/Fire_ship) launched upriver were ineffective. The British quickly occupied the commanding heights of the area surrounding Québec and began shelling the city. But the French were well provisioned and had excellent supply lines that would keep the city stocked throughout the year. Not only were the British less well-supplied but they faced a tight deadline to take the city within a couple of months before the Saint Lawrence froze. The reason that [SEAL Team Six](https://en.wikipedia.org/wiki/SEAL_Team_Six) is an elite and highly trained unit is that, even with a modern assault craft, making an amphibious attack is extremely difficult. Making marine landings during the age of sail was, as one could image, an especially difficult manoeuvre. Wolfe's first amphibious attack against the [Beauport entrenchments](https://en.wikipedia.org/wiki/Battle_of_Beauport), just north-east of Québec, failed miserably. If the British could not attack Québec from the north by crossing the Saint-Charles River, then a landing would need to be made along one of the southern beaches followed by an uphill assault.[[^4]]
+
+<br>
+<p align="center"><img src="/figures/SiegeOfQuebec1759.jpg" width="85%"></p>
+<p align="center"><i>Québec and its surrounding territory</i></p>
+<br>
+
+*Northern Armageddon* makes clear that the historical importance of Montcalm, and certainly Wolfe, with regards to the Battle for Québec, is significantly overstated in the popular imagination. Yet Wolfe's one clear tactical achievement was to land his forces at the Anse-au-Foulon. The attack was almost flawless despite the difficult circumstances: a night time landing following by a scaling of the Québec promontory. The British had two pieces of luck on their side that night. First, the Anse-au-Foulon was lightly defended even though it had been recognized as a possible attack point. Second, some of the French sentries mistook British vessels as the supply ships that were expected to arrive that night.
+
+By the next morning the French had realized their folly and the British had assembled the bulk of their army outside the city. At this point MacLeod's reveals the military contributions of Wolfe and Montcalm in the battle are hardly the ones of our romantic imagination. Instead of waiting for reinforcements, the French general decided that an immediate attack on the British was necessary before they had time to dig in or receive other troops. The decision to attack was poorly devised, and without any planning or direction the French troops marched off across the uneven ground of the Plains of Abraham. In the era of the musket, effective fire power required troops in tight formations to fire simultaneously at close range. Though any one bullet was ineffective, a wall of lead was lethal. Montcalm failed to envisage that the difficult terrain would cause some divisions to reach the British line before others and cause disorder even within those that did. The fire fight that emerged between the orderly British line and the shambolic French one was a foregone conclusion. After eight minutes of exchange the French troops were rattled and began to retreat. A frightening [charge](https://www.cbc.ca/history/EPCONTENTSE1EP4CH8PA4LE.html) by claymore-wielding Scottish [highlanders](https://en.wikipedia.org/wiki/78th_Fraser_Highlanders) caused further panic among the French troops.
+
+The almost mechanical victory of the British troops that day was hardly the result of any choices Wolfe made. The most obvious reason was that Wolfe was mortally wounded relatively early on in the battle and thus he lacked any operational command for its remainder.[[^5]] Yet even if Wolfe had remained unscathed, most of the British line was being controlled by lower-ranking officers. Nor was the victory on the Plains of Abraham sufficient for capturing Québec. That task would be left to [Townshend](https://en.wikipedia.org/wiki/George_Townshend,_1st_Marquess_Townshend), who along with Saunders, is surely a forgotten name in history.  
+
+*Northern Armageddon* is a good book but it might not appeal to all readers. It is first and foremast a book of military history. The narrative is mainly a chronology of the military movements and logistics that led up to the battle. The book has useful maps of both Québec and its surrounding area which are essential for following the story. The book could have benefited from a glossary of military terms however (e.g. what are fascines and gabions?). If you do not enjoy military history, the book is probably not for you. As someone who does enjoy military history, I found the book quite stimulating. Though the Battle of the Plains of Abraham is an event that few outside Canada would care about, those with an interest in warfare during *Ancien régime* will find this battle to be an excellent case study. Macleod's prose is terse but crisp, and the unfolding events are related in a linear but satisfying manner. I would give the book my endorsement and be interested in reading his other works.
+
+<br>
+
+* * *
+
+[^1]: Incidentally a young George Washington led this attack.
+
+[^2]: The British victory in the Maritimes would ultimately lead to the [expulsion](https://en.wikipedia.org/wiki/Expulsion_of_the_Acadians) of the Acadians.
+
+[^3]: One other fun fact I gleaned from this book was that the French military flag was [pure white](https://en.wikipedia.org/wiki/White_flag#Ancien_R%C3%A9gime_in_France) as this was the royal colour of the House of Bourbon. When the French surrendered Québec the British troops were  confident, apparently, that it was the flag of surrender and not that of military defiance! 
+
+[^4]: In theory the British could have landed even farther downstream, at say [Cap-Rouge](https://en.wikipedia.org/wiki/Cap-Rouge,_Quebec_City), although this would have required marching through forests, crossing a river, and presumably giving the French a sufficient warning to entrench themselves and call in reinforcements. 
+
+[^5]: This is in contrast to Nelson, who though certainly dead before the battle's conclusion, can arguably be credited with causing the destruction of the Franco-Spanish fleet through his self-styled aggression. 

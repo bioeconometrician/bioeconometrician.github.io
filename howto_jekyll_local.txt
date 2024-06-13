@@ -1,0 +1,32 @@
+1) Set up Gemfile
+2) rbenv local x.x.x
+3) rbenv rehash
+4) delete the Gemfile.lock
+5) gem cleanup
+6) bundle install
+7) bundle exec jekyll serve
+
+——Gemfile for Ruby 2.7.0
+source "https://rubygems.org"
+
+gem "webrick", "~> 1.5.0"
+
+gem "minima", "~> 2.5.0"
+
+gem "rouge", "~> 3.11.0"
+
+gem "github-pages", "202", group: :jekyll_plugins
+———
+
+--Gemfile for Ruby 3.1.0
+source "https://rubygems.org"
+
+gem "webrick", "~> 1.7.0"
+
+gem "minima", "~> 2.5.1"
+
+gem "rouge", "~> 3.26.0"
+
+gem "github-pages", "223", group: :jekyll_plugins
+
+---
